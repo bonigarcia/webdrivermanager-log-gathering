@@ -13,7 +13,7 @@ This repository contains a JUnit test using [Selenium WebDriver], [WebDriverMana
 WebDriverManager (Copyright &copy; 2015-2022) and its related projects have been created and maintained by [Boni Garcia] licensed under [Apache 2.0 License].
 
 [Apache 2.0 License]: https://www.apache.org/licenses/LICENSE-2.0
-[Boni Garcia]: https://bonigarcia.github.io/
+[Boni Garcia]: https://bonigarcia.dev/
 [Selenium WebDriver]: https://docs.seleniumhq.org/projects/webdriver/
 [WebDriverManager]:https://github.com/bonigarcia/webdrivermanager/
 [Logo]: https://bonigarcia.github.io/img/webdrivermanager.png
