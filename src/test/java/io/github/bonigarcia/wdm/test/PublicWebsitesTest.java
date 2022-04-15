@@ -55,13 +55,17 @@ class PublicWebsitesTest {
 
     @AfterEach
     void teardown() {
-        driver.quit();
+        if (driver != null) {
+            driver.quit();
+        }
     }
 
     @ParameterizedTest
     @MethodSource("provider")
     void publicWebsitesTest(DriverManagerType browserType, String website,
             int index) throws IOException {
+        log.debug("==> [{}] Gathering logs of {} with {}", index, website,
+                browserType.getBrowserName());
 
         WebDriverManager wdm = WebDriverManager.getInstance(browserType)
                 .watch();
