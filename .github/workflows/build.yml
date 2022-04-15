@@ -41,6 +41,6 @@ jobs:
       uses: actions/upload-artifact@v3
       if: ${{ always() }}
       with:
-        name: txt-files
+        name: txt-files-${{ matrix.os }}
         path: |
           *.txt
