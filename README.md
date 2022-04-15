@@ -6,7 +6,7 @@
 
 # WebDriverManager Log Gathering [![][Logo]][GitHub Repository]
 
-This repository contains a JUnit test using [Selenium WebDriver], [WebDriverManager] and [BrowserWatcher] that gathers the browser console logs of the [50 top websites].
+This repository contains a [JUnit 5] test using [Selenium WebDriver], [WebDriverManager] and [BrowserWatcher] that gathers the browser console logs of the [50 top websites].
 
 ## About
 
@@ -14,6 +14,7 @@ WebDriverManager (Copyright &copy; 2015-2022) and its related projects have been
 
 [Apache 2.0 License]: https://www.apache.org/licenses/LICENSE-2.0
 [Boni Garcia]: https://bonigarcia.dev/
+[JUnit 5]: https://junit.org/junit5/docs/current/user-guide/
 [Selenium WebDriver]: https://docs.seleniumhq.org/projects/webdriver/
 [WebDriverManager]:https://github.com/bonigarcia/webdrivermanager/
 [Logo]: https://bonigarcia.github.io/img/webdrivermanager.png
