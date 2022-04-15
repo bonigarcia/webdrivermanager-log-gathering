@@ -87,7 +87,7 @@ class PublicWebsitesTest {
 
     static Stream<Arguments> provider() {
         List<DriverManagerType> browsers = Arrays.asList(CHROME, FIREFOX, EDGE);
-        List<String> websites = getUrlsFromFile("websites-mini.txt");
+        List<String> websites = getUrlsFromFile("websites.txt");
         List<Arguments> cartesianProduct = new ArrayList<>();
 
         for (int i = 0; i < websites.size(); i++) {
