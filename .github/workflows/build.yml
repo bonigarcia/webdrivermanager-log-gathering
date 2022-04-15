@@ -1,0 +1,46 @@
+name: build
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+env:
+  DISPLAY: :99
+  WDM_GITHUBTOKEN: ${{ secrets.WDM_GITHUBTOKEN }}
+
+jobs:
+  build:
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        os: [ ubuntu-latest, windows-latest, macos-latest ]
+        java: [ 11 ]
+    steps:
+    - name: Checkout GitHub repo
+      uses: actions/checkout@v2
+    - name: Set up Java
+      uses: actions/setup-java@v2
+      with:
+        distribution: 'temurin'
+        java-version: ${{ matrix.java }}
+    - name: Start Xvfb
+      run: Xvfb :99 &
+    - name: Install Edge on Linux
+      if: matrix.os == 'ubuntu-latest'
+      run: |
+        curl https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > microsoft.gpg
+        sudo install -o root -g root -m 644 microsoft.gpg /etc/apt/trusted.gpg.d/
+        sudo sh -c 'echo "deb [arch=amd64] https://packages.microsoft.com/repos/edge stable main" > /etc/apt/sources.list.d/microsoft-edge-dev.list'
+        sudo rm microsoft.gpg
+        sudo apt update && sudo apt install microsoft-edge-stable
+    - name: Run tests
+      run: mvn -B test
+    - name: Archive production artifacts
+      uses: actions/upload-artifact@v3
+      if: ${{ always() }}
+      with:
+        name: txt-files
+        path: |
+          *.txt
