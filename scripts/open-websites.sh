@@ -9,6 +9,6 @@ URLS=""
 
 while read -r line; do
     URLS="${URLS} $line "
-done < "websites.txt"
+done < "../src/test/resources/websites.txt"
 
 $BROWSER $URLS > /dev/null 2>&1 &

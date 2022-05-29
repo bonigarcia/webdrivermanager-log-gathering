@@ -9,6 +9,6 @@ IF "%browser%"=="" (
 
 SET "urls="
 
-FOR /F "tokens=*" %%A IN (websites.txt) DO CALL SET "urls=%%urls%% %%A"
+FOR /F "tokens=*" %%A IN (../src/test/resources/websites.txt) DO CALL SET "urls=%%urls%% %%A"
 
 START %browser% %urls%
