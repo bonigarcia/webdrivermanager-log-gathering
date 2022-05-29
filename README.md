@@ -8,6 +8,14 @@
 
 This repository contains a [JUnit 5] test using [Selenium WebDriver], [WebDriverManager] and [BrowserWatcher] that gathers the browser console logs of the [50 top websites].
 
+## Content
+
+The main assets of this repository are the following:
+
+- [PublicWebsitesTest.java](https://github.com/bonigarcia/webdrivermanager-log-gathering/blob/main/src/test/java/io/github/bonigarcia/wdm/test/PublicWebsitesTest.java): Automated test
+- [websites.txt](https://github.com/bonigarcia/webdrivermanager-log-gathering/blob/main/src/test/resources/websites.txt): Text file containing the target websites (top-50 according to Alexa Top Sites in April 2022).
+- [scripts](https://github.com/bonigarcia/webdrivermanager-log-gathering/tree/main/scripts): Folder containing the script used to open the target websites on Chrome, Edge, or Firefox (used for manual log inspection).
+
 ## About
 
 WebDriverManager (Copyright &copy; 2015-2022) and its related projects have been created and maintained by [Boni Garcia] licensed under [Apache 2.0 License].
