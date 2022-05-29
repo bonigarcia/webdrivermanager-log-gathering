@@ -24,9 +24,9 @@ WebDriverManager (Copyright &copy; 2015-2022) and its related projects have been
 [Apache 2.0 License]: https://www.apache.org/licenses/LICENSE-2.0
 [Boni Garcia]: https://bonigarcia.dev/
 [JUnit 5]: https://junit.org/junit5/docs/current/user-guide/
-[Selenium WebDriver]: https://docs.seleniumhq.org/projects/webdriver/
-[WebDriverManager]:https://github.com/bonigarcia/webdrivermanager/
+[Selenium WebDriver]: https://www.selenium.dev/documentation/webdriver/
+[WebDriverManager]:https://bonigarcia.dev/webdrivermanager/
 [Logo]: https://bonigarcia.github.io/img/webdrivermanager.png
 [GitHub Repository]: https://github.com/bonigarcia/webdrivermanager-log-gathering
-[BrowserWatcher]: https://github.com/bonigarcia/browserwatcher
+[BrowserWatcher]: https://bonigarcia.dev/browserwatcher/
 [Alexa Top Sites]: https://www.alexa.com/topsites
