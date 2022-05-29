@@ -13,7 +13,7 @@ This repository contains a [JUnit 5] test using [Selenium WebDriver], [WebDriver
 The main assets contained in this repository are the following:
 
 - [PublicWebsitesTest.java](https://github.com/bonigarcia/webdrivermanager-log-gathering/blob/main/src/test/java/io/github/bonigarcia/wdm/test/PublicWebsitesTest.java): Automated test
-- [websites.txt](https://github.com/bonigarcia/webdrivermanager-log-gathering/blob/main/src/test/resources/websites.txt): Text file containing the target websites (top-50 according to Alexa Top Sites in April 2022).
+- [websites.txt](https://github.com/bonigarcia/webdrivermanager-log-gathering/blob/main/src/test/resources/websites.txt): Text file containing the target websites (top-50 according to [Alexa Top Sites] on April 19, 2022).
 - [scripts](https://github.com/bonigarcia/webdrivermanager-log-gathering/tree/main/scripts): Folder containing the script used to open the target websites on Chrome, Edge, or Firefox (used for manual log inspection).
 - [results](https://github.com/bonigarcia/webdrivermanager-log-gathering/tree/main/results): Folder containing the result for the log gathering experiment (both manually and automated) carried out on May 3, 2022.
 
@@ -29,4 +29,4 @@ WebDriverManager (Copyright &copy; 2015-2022) and its related projects have been
 [Logo]: https://bonigarcia.github.io/img/webdrivermanager.png
 [GitHub Repository]: https://github.com/bonigarcia/webdrivermanager-log-gathering
 [BrowserWatcher]: https://bonigarcia.dev/browserwatcher/
-[Alexa Top Sites]: https://www.alexa.com/topsites
+[Alexa Top Sites]: https://web.archive.org/web/20220319013139/https://www.alexa.com/topsites
