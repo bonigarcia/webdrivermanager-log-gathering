@@ -1,0 +1,15 @@
+[Report Only] Refused to load the script 'https://edge-mcdn.secure.yahoo.com/ybar/cerebro_min.js' because it violates the following Content Security Policy directive: "script-src 'self' 'nonce-khWS8EZf5PDGoAuYz9LtMM0LV+2XmLbf' https://s.yimg.com". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+	cerebro_min.js:1 
+[Report Only] Refused to connect to 'https://edge-mcdn.secure.yahoo.com/ybar/exp.json' because it violates the following Content Security Policy directive: "connect-src 'self'".
+	(anonymous) @ cerebro_min.js:1
+	e._fetchWork @ cerebro_min.js:1
+	e.runExperiment @ cerebro_min.js:1
+	(anonymous) @ cerebro_min.js:1
+	cerebro_min.js:1      
+[Report Only] Refused to connect to 'https://edge-mcdn.secure.yahoo.com/ybar/exp.json' because it violates the following Content Security Policy directive: "connect-src 'self'".
+	(anonymous) @ cerebro_min.js:1
+	e._fetchWork @ cerebro_min.js:1
+	e.runExperiment @ cerebro_min.js:1
+	(anonymous) @ cerebro_min.js:1
+cerebro_min.js:1 marked all experiments to run as expCount >= expList length
+cerebro_min.js:1 not sending beacons

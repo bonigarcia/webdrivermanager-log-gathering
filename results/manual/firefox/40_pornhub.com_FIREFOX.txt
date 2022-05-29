@@ -1,0 +1,39 @@
+
+The script from “https://www.pornhub.com/_xa/ads_batch?ads=true&clientType=mobile&channel[context_page_type]=home&channel[site]=pornhub&site_id=2&device_type=tablet&hbresp=header&hb=689AA163-C9BB-4C2D-BF85-E772E0ADC7BA&data=%5B%7B%22spots%22%3A%5B%7B%22zone%22%3A5%7D%2C%7B%22zone%22%3A2184351%7D%5D%7D%5D&dm=www.pornhub.com/_xa” was loaded even though its MIME type (“”) is not a valid JavaScript MIME type.
+www.pornhub.com
+This page uses the non standard property “zoom”. Consider using calc() in the relevant property values, or using “transform” along with “transform-origin: 0 0”. www.pornhub.com
+<source> element has no “src” attribute. Media resource load failed. 4 www.pornhub.com
+Getting LocalStorageManager instance ph-functions.js:1:20330
+<source> element has no “src” attribute. Media resource load failed. 4 www.pornhub.com
+Uncaught TypeError: s is null
+    <anonymous> https://di.phncdn.com/www-static/js/front-index.js?cache=2022050304:1
+    t https://di.phncdn.com/www-static/js/lib/utils/mg_utils-1.0.0.js?cache=2022050304:1
+    domReady https://di.phncdn.com/www-static/js/lib/utils/mg_utils-1.0.0.js?cache=2022050304:1
+    <anonymous> https://di.phncdn.com/www-static/js/front-index.js?cache=2022050304:1
+front-index.js:1:2580
+All candidate resources failed to load. Media load paused. 4 www.pornhub.com
+Cookie “f01” has been rejected because it is already expired. ads_batch
+Cookie “f02” has been rejected because it is already expired. ads_batch
+Cookie “f03” has been rejected because it is already expired. ads_batch
+Cookie “f04” has been rejected because it is already expired. ads_batch
+Cookie “f06” has been rejected because it is already expired. ads_batch
+Cookie “f08” has been rejected because it is already expired. ads_batch
+Cookie “f09” has been rejected because it is already expired. ads_batch
+Cookie “f10” has been rejected because it is already expired. ads_batch
+Cookie “f05” has been rejected because it is already expired. ads_batch
+Cookie “f07” has been rejected because it is already expired. ads_batch
+Cookie “f02” has been rejected because it is already expired. ads_batch
+Cookie “f03” has been rejected because it is already expired. ads_batch
+Cookie “f04” has been rejected because it is already expired. ads_batch
+Cookie “f05” has been rejected because it is already expired. ads_batch
+Cookie “f07” has been rejected because it is already expired. ads_batch
+Cookie “f09” has been rejected because it is already expired. ads_batch
+Cookie “f01” has been rejected because it is already expired. ads_batch
+Cookie “f10” has been rejected because it is already expired. ads_batch
+Cookie “f06” has been rejected because it is already expired. ads_batch
+Cookie “f08” has been rejected because it is already expired. ads_batch
+Some cookies are misusing the recommended “SameSite“ attribute 5
+ServiceWorker registration successful www.pornhub.com:7826:29
+
+​
+

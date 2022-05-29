@@ -1,0 +1,4 @@
+ad-provider.js:1 2022-05-03T21:27:36.779Z: Request #0 Placement #0 was pushed with zone {"id":4353796,"sub":123450000,"keywords":""}
+ad-provider.js:1 2022-05-03T21:27:36.779Z: Request #0 Placement #0 was pushed with properties {"id":4353796,"sub":123450000,"keywords":""}
+ad-provider.js:1 2022-05-03T21:27:36.779Z: Request #0 is being served.
+ad-provider.js:1 2022-05-03T21:27:37.003Z: Request #0 handling the response

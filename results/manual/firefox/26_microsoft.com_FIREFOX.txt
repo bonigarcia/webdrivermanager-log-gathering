@@ -1,0 +1,6 @@
+
+This page uses the non standard property “zoom”. Consider using calc() in the relevant property values, or using “transform” along with “transform-origin: 0 0”. es-es
+Carousel is deprecated, please use either MultiSlideCarousel or SingleSlideCarousel instead. 2 social:1:15538
+
+​
+

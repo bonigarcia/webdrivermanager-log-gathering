@@ -1,0 +1,1 @@
+[03-05-2022 7:40:01 PM.314] [CONSOLE.LOG] Download the Apollo DevTools for a better development experience: https://addons.mozilla.org/en-US/firefox/addon/apollo-developer-tools/

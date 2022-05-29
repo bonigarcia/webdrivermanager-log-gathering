@@ -1,0 +1,5 @@
+GET https://myshopify.com/
+[HTTP/3 404 Not Found 324ms]
+
+​
+

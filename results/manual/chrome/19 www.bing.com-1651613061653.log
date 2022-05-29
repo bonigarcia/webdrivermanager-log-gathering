@@ -1,0 +1,10 @@
+/?toWww=1&redig=582442052998428A9B2720592C248BE5:1 [Report Only] Refused to load the script 'https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js' because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-/yxqXgnKJv3KyRgXzqQjAxYt22SyCw2W81Cef/vJkQA='". Note that 'strict-dynamic' is present, so host-based allowlisting is disabled. Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+?toWww=1&redig=582442052998428A9B2720592C248BE5:2 Uncaught ReferenceError: _ge is not defined
+    at ?toWww=1&redig=582442052998428A9B2720592C248BE5:2:13
+(anonymous) @ ?toWww=1&redig=582442052998428A9B2720592C248BE5:2
+
+DevTools failed to load source map: Could not load content for https://r.bing.com/rp/es-module-shims.min.js.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+DevTools failed to load source map: Could not load content for https://r.bing.com/rp/preact.umd.js.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+DevTools failed to load source map: Could not load content for https://r.bing.com/rp/microsoft.cognitiveservices.speech.sdk.bundle.js.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+

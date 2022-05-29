@@ -1,0 +1,3 @@
+[03-05-2022 7:26:46 PM.769] [LISTENER.SECURITYPOLICYVIOLATION] https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js script-src-elem script-src https: 'strict-dynamic' 'report-sample' 'nonce-Zm8rWA2rjmRMtkr/h8T6ZRdP5kvTEJsZ4xhrkf87m3E='; base-uri 'self';report-to csp-endpoint
+[03-05-2022 7:26:46 PM.864] [LISTENER.ERROR] ReferenceError: _ge is not defined
+    at https://www.bing.com/?toWww=1&redig=DE2BDB34BDD94E49B3A9DB33A967C866:2:13

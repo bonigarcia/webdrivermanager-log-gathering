@@ -1,0 +1,5 @@
+
+Some cookies are misusing the recommended “SameSite“ attribute 3
+
+​
+

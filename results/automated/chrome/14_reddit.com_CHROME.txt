@@ -1,0 +1,25 @@
+[03-05-2022 7:25:19 PM.050] [CONSOLE.LOG] 
+                  ,d"=?,.,qOp,
+                 ,7'  ''²$(  )
+                ,7'      '?q$7'
+             ..,$$,.
+   ,.  .,,--***²""²***--,,.  .,
+ ²   ,p²''              ''²q,   ²
+:  ,7'                      '7,  :
+ ' $      ,db,      ,db,      $ '
+  '$      ²$$²      ²$$²      $'    Using Reddit at work? Work for Reddit.
+  '$                          $'      https://www.redditinc.com/careers
+   '$.     .,        ,.     .$'
+    'b,     '²«»«»«»²'     ,d'
+     '²?bn,,          ,,nd?²'
+       ,7$ ''²²²²²²²²'' $7,
+     ,² ²$              $² ²,
+     $  :$              $:  $
+     $   $              $   $
+     'b  q:            :p  d'
+      '²«?$.          .$?»²'
+         'b            d'
+       ,²²'?,.      .,?'²²,
+      ²==--?²²==--==²²?--==²
+
+[03-05-2022 7:25:19 PM.229] [CONSOLE.LOG] [%cStarting Raven %crelease %c66babb0550a103d01b9c2e16f93059e9e74c9438-production %cpublic url %chttps://6b5ce051b2ed4032bd906af3de0630cd@o418887.ingest.sentry.io/5667464, color: #7E53C1, color: #7E53C1, color: #FFB000, color: #7E53C1, color: #FFB000]

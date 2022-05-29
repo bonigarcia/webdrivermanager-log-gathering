@@ -1,0 +1,51 @@
+This page uses the non standard property “zoom”. Consider using calc() in the relevant property values, or using “transform” along with “transform-origin: 0 0”. www.facebook.com
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://static.xx.fbcdn.net/rsrc.php/v3/y1/r/ETflgJnEBt8.js?_nc_x=Ij3Wp8lg5Kz ETflgJnEBt8.js
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/6BENHzfy610.js?_nc_x=Ij3Wp8lg5Kz 6BENHzfy610.js
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://static.xx.fbcdn.net/rsrc.php/v3/yi/r/3c64zuZPF4s.js?_nc_x=Ij3Wp8lg5Kz 3c64zuZPF4s.js
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://static.xx.fbcdn.net/rsrc.php/v3i7M54/y8/l/en_US/X8JGxsS7GgE.js?_nc_x=Ij3Wp8lg5Kz X8JGxsS7GgE.js
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/PY7GwH778y7.js?_nc_x=Ij3Wp8lg5Kz PY7GwH778y7.js
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://static.xx.fbcdn.net/rsrc.php/y8/r/dF5SId3UHWd.svg dF5SId3UHWd.svg
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://static.xx.fbcdn.net/rsrc.php/v3/y5/r/xhEMXKG3Ytk.js?_nc_x=Ij3Wp8lg5Kz ETflgJnEBt8.js:169:2785
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://static.xx.fbcdn.net/rsrc.php/v3iPwL4/yX/l/en_US/VoNunwz5Hf3.js?_nc_x=Ij3Wp8lg5Kz ETflgJnEBt8.js:169:2785
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/dnqabJ30GFR.js?_nc_x=Ij3Wp8lg5Kz ETflgJnEBt8.js:169:2785
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://static.xx.fbcdn.net/rsrc.php/v3/y5/r/WCZYwdk_dzw.js?_nc_x=Ij3Wp8lg5Kz ETflgJnEBt8.js:169:2785
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://static.xx.fbcdn.net/rsrc.php/v3/y2/r/3FPJ9YC_wUr.js?_nc_x=Ij3Wp8lg5Kz ETflgJnEBt8.js:169:2785
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://static.xx.fbcdn.net/rsrc.php/v3/y5/r/0czp4k5h6iy.js?_nc_x=Ij3Wp8lg5Kz ETflgJnEBt8.js:169:2785
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://static.xx.fbcdn.net/rsrc.php/v3iYXl4/yI/l/en_US/h5pzSFG3FPs.js?_nc_x=Ij3Wp8lg5Kz ETflgJnEBt8.js:169:2785
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/JYkz44Hy3m6.js?_nc_x=Ij3Wp8lg5Kz ETflgJnEBt8.js:169:2785
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://static.xx.fbcdn.net/rsrc.php/v3/yw/r/k-q4nWdzsIR.js?_nc_x=Ij3Wp8lg5Kz ETflgJnEBt8.js:169:2785
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://static.xx.fbcdn.net/rsrc.php/v3ipVm4/ye/l/en_US/HSTsP8OKd8w.js?_nc_x=Ij3Wp8lg5Kz ETflgJnEBt8.js:169:2785
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/lYejkzyV906.js?_nc_x=Ij3Wp8lg5Kz ETflgJnEBt8.js:169:2785
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://static.xx.fbcdn.net/rsrc.php/v3/y-/r/N4kxjjeYZqF.js?_nc_x=Ij3Wp8lg5Kz ETflgJnEBt8.js:169:2785
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://static.xx.fbcdn.net/rsrc.php/v3iJrp4/yP/l/en_US/dJNRb1v-bIs.js?_nc_x=Ij3Wp8lg5Kz ETflgJnEBt8.js:169:2785
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://static.xx.fbcdn.net/rsrc.php/v3/yj/r/-jY7SqbZSzy.js?_nc_x=Ij3Wp8lg5Kz ETflgJnEBt8.js:169:2785
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://static.xx.fbcdn.net/rsrc.php/v3i9Zn4/ya/l/en_US/qNY1tBSdVbi.js?_nc_x=Ij3Wp8lg5Kz ETflgJnEBt8.js:169:2785
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/nD4VmWJ1hkS.js?_nc_x=Ij3Wp8lg5Kz ETflgJnEBt8.js:169:2785
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://static.xx.fbcdn.net/rsrc.php/v3/yX/r/xOJs33xJ5Fd.js?_nc_x=Ij3Wp8lg5Kz ETflgJnEBt8.js:169:2785
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://static.xx.fbcdn.net/rsrc.php/v3/yi/r/JB0CVIbgIKw.js?_nc_x=Ij3Wp8lg5Kz ETflgJnEBt8.js:169:2785
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/y-/l/en_US/eeIQ46Cso25.js?_nc_x=Ij3Wp8lg5Kz ETflgJnEBt8.js:169:2785
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://static.xx.fbcdn.net/rsrc.php/v3/yn/r/KWY7Edb5_DT.js?_nc_x=Ij3Wp8lg5Kz ETflgJnEBt8.js:169:2785
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://static.xx.fbcdn.net/rsrc.php/v3/y7/r/NUf5CGo1-pT.js?_nc_x=Ij3Wp8lg5Kz ETflgJnEBt8.js:169:2785
+onmozfullscreenchange is deprecated. ETflgJnEBt8.js:280:5668
+
+
+
+                                            
+ .d8888b.  888                       888    
+d88P  Y88b 888                       888    
+Y88b.      888                       888    This is a browser feature intended for 
+ "Y888b.   888888  .d88b.  88888b.   888    developers. If someone told you to copy-paste 
+    "Y88b. 888    d88""88b 888 "88b  888    something here to enable a Facebook feature 
+      "888 888    888  888 888  888  Y8P    or "hack" someone's account, it is a 
+Y88b  d88P Y88b.  Y88..88P 888 d88P         scam and will give them access to your 
+ "Y8888P"   "Y888  "Y88P"  88888P"   888    Facebook account.
+                           888              
+                           888              
+                           888              
+
+See https://www.facebook.com/selfxss for more information.
+eeIQ46Cso25.js:16:1531
+WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER. eeIQ46Cso25.js:20:361
+
+​
+

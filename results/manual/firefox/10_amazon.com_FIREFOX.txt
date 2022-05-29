@@ -1,0 +1,14 @@
+Ignoring unsupported entryTypes: largest-contentful-paint. www.amazon.com:1926:6238
+This page uses the non standard property “zoom”. Consider using calc() in the relevant property values, or using “transform” along with “transform-origin: 0 0”. www.amazon.com
+Layout was forced before the page was fully loaded. If stylesheets are not yet loaded this may cause a flash of unstyled content. 61lJFOw4DrL.js:59:311
+Some cookies are misusing the recommended “SameSite“ attribute 3
+Ignoring unsupported entryTypes: layout-shift. www.amazon.com:1870:9051
+Ignoring unsupported entryTypes: longtask. www.amazon.com:1870:9562
+Ignoring unsupported entryTypes: largest-contentful-paint. www.amazon.com:1870:9675
+The Components object is deprecated. It will soon be removed. www.amazon.com:1905:148
+WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER. line 1877 > injectedScript:1:341
+WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER. line 1877 > injectedScript:1:341
+Ignoring unsupported entryTypes: largest-contentful-paint. www.amazon.com:1870:6238
+
+​
+

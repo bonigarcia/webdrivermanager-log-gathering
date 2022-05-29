@@ -1,0 +1,3 @@
+myshopify.com/:1 Access to font at 'https://cdn.shopify.com/shopify-marketing_assets/static/ShopifySans--light.woff2')%3E' from origin 'https://myshopify.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+ShopifySans--light.woff2')%%3E:1          Failed to load resource: net::ERR_FAILED
+	myshopify.com/:1          GET https://myshopify.com/ 404

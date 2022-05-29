@@ -1,0 +1,1 @@
+[03-05-2022 7:39:28 PM.190] [CONSOLE.WARN] react-i18next:: It seems you are still using the old wait option, you may migrate to the new useSuspense behaviour.

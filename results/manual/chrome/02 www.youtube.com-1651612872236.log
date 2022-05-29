@@ -1,0 +1,9 @@
+DevTools failed to load source map: Could not load content for https://www.youtube.com/s/desktop/fc7b0168/jsbin/custom-elements-es5-adapter.vflset/blaze-out/k8-opt/bin/third_party/javascript/custom_elements/fast-shim.js.sourcemap: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+DevTools failed to load source map: Could not load content for https://www.youtube.com/s/desktop/fc7b0168/jsbin/webcomponents-sd.vflset/blaze-out/k8-opt/bin/third_party/javascript/polymer/v2/webcomponentsjs/webcomponents-sd.js.sourcemap: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+DevTools failed to load source map: Could not load content for https://www.youtube.com/s/desktop/fc7b0168/jsbin/web-animations-next-lite.min.vflset/web-animations-next-lite.min.js.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+chromewebdata/:1 Refused to display 'https://accounts.google.com/' in a frame because it set 'X-Frame-Options' to 'deny'.
+	(index):6772 crbug/1173575, non-JS module files deprecated.
+	(anonymous) @ (index):6772
+desktop_polymer.js:4396 LegacyDataMixin will be applied to all legacy elements.
+	Set `_legacyUndefinedCheck: true` on element class to enable.
+DevTools failed to load source map: Could not parse content for https://www.youtube.com/yt-swatch-behavior_custom_style.css.map: Unexpected token < in JSON at position 0

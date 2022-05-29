@@ -1,0 +1,9 @@
+chromewebdata/:1        
+       Refused to display 'https://accounts.google.com/' in a frame because it set 'X-Frame-Options' to 'deny'.
+DevTools failed to load source map: Could not parse content for https://www.youtube.com/yt-swatch-behavior_custom_style.css.map: Unexpected token < in JSON at position 0
+(index):2762 		
+		   crbug/1173575, non-JS module files deprecated.
+	(anonymous) @ (index):2762
+desktop_polymer.js:4396 LegacyDataMixin will be applied to all legacy elements.
+	Set `_legacyUndefinedCheck: true` on element class to enable.
+DevTools failed to load source map: Could not parse content for https://www.youtube.com/yt-swatch-behavior_custom_style.css.map: Unexpected token < in JSON at position 0

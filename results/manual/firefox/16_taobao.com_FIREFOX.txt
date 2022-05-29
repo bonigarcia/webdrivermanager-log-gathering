@@ -1,0 +1,36 @@
+Layout was forced before the page was fully loaded. If stylesheets are not yet loaded this may cause a flash of unstyled content. index.js:1:28336
+WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER. collina.js:4:30907
+Use of the orientation sensor is deprecated. collina.js:2:28648
+world.taobao.com:284:28
+Ignoring unsupported entryTypes: largest-contentful-paint. trace:13:34717
+https://world.taobao.com logUrl world.taobao.com:284:28
+Object { "https://world.taobao.com": (1) […], "https://at.alicdn.com": (1) […], "https://g.alicdn.com": (9) […], "https://www.googletagmanager.com": (1) […] }
+world.taobao.com:284:28
+Object { "https://world.taobao.com": {…}, "https://at.alicdn.com": {…}, "https://g.alicdn.com": {…}, "https://www.googletagmanager.com": {…} }
+world.taobao.com:284:28
+FCP: 5063 world.taobao.com:284:28
+Loading failed for the <script> with source “chrome-extension://bmnlcjabgnpnenekpadlanbbkooimhnj/proxies/requestProxies.js”. world.taobao.com:1:1
+Loading failed for the <script> with source “chrome-extension://aoiidodopnnhiflaflbfeblnojefhigh/static/js/cookieProxy.js”. world.taobao.com:1:1
+Some cookies are misusing the recommended “SameSite“ attribute 31
+Referrer Policy: Ignoring the less restricted referrer policy “unsafe-url” for the cross-site request: https://g.alicdn.com/secdev/sufei_data/3.9.9/index.js index.js:1:539
+Referrer Policy: Ignoring the less restricted referrer policy “unsafe-url” for the cross-site request: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1 index.js:1:539
+Referrer Policy: Ignoring the less restricted referrer policy “unsafe-url” for the cross-site request: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js index.js:1:539
+WebGL context was lost. index.js:1:5488
+WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER. et_n.js:1:26444
+WebGL context was lost. et_n.js:4:1733
+WebGL context was lost. g.alicdn.com:5:13258
+The script from “https://bat.bing.com/p/action/149004156.js” was loaded even though its MIME type (“”) is not a valid JavaScript MIME type.
+world.taobao.com
+The script from “https://h5api.m.taobao.com/h5/mtop.tmall.hk.yx.worldhomepagepcapi.gethotwords/1.0/?jsv=2.6.2&appKey=12574478&t=1652555095562&sign=22e460499af82f5ab65c2c00cc401f76&api=mtop.tmall.hk.yx.worldhomepagepcapi.gethotwords&v=1.0&preventFallback=true&type=jsonp&dataType=jsonp&callback=mtopjsonp1&data=%7B%7D” was loaded even though its MIME type (“application/json”) is not a valid JavaScript MIME type.
+world.taobao.com
+Loading failed for the <script> with source “https://localhost.wwbizsrv.alibaba.com:4013/?callback=LIGHTJSONP1652555095520”. world.taobao.com:1:1
+The script from “https://h5api.m.taobao.com/h5/mtop.tmall.hk.yx.worldhomepagepcapi.gethotwords/1.0/?jsv=2.6.2&appKey=12574478&t=1652555097124&sign=78a934144479966c7fe94ee5e7c20af1&api=mtop.tmall.hk.yx.worldhomepagepcapi.gethotwords&v=1.0&preventFallback=true&type=jsonp&dataType=jsonp&callback=mtopjsonp2&data=%7B%7D” was loaded even though its MIME type (“application/json”) is not a valid JavaScript MIME type.
+world.taobao.com
+The script from “https://h5api.m.taobao.com/h5/mtop.tmall.kangaroo.core.service.route.pagerecommendservice/1.0/?jsv=2.6.2&appKey=12574478&t=1652555097644&sign=886bfc2e8772801e11e369146cb8d2dd&api=mtop.tmall.kangaroo.core.service.route.pagerecommendservice&v=1.0&timeout=20000&preventFallback=true&type=jsonp&dataType=jsonp&callback=mtopjsonp4&data=%7B%22url%22%3A%22https%3A%2F%2Fworld.taobao.com%2Fwow%2Fz%2Foversea%2Fnew_channel%2Findex-home%22%2C%22device%22%3A%22pc%22%2C%22regionId%22%3A%22%22%2C%22terminalType%22%3A0%7D” was loaded even though its MIME type (“application/json”) is not a valid JavaScript MIME type.
+world.taobao.com
+Cookie “cookie2” has been rejected because it is already expired. 1.0
+The script from “https://h5api.m.taobao.com/h5/mtop.alibaba.ocs.pc.gethomepage/1.0/?jsv=2.6.2&appKey=12574478&t=1652555097644&sign=76043fadc0b7a96b36f8e0b768f7ea99&api=mtop.alibaba.ocs.pc.getHomepage&v=1.0&preventFallback=true&type=jsonp&dataType=jsonp&callback=mtopjsonp3&data=%7B%22firstPagePVID%22%3A%22%22%2C%22country%22%3A%22%22%2C%22pageNum%22%3A0%2C%22itemLastCount%22%3A0%2C%22webUserAction%22%3A%22%22%7D” was loaded even though its MIME type (“application/json”) is not a valid JavaScript MIME type.
+world.taobao.com
+Cookie “cookie2” has been rejected because it is already expired. 1.0
+Loading failed for the <script> with source “https://localhost.wwbizsrv.alibaba.com:4813/?callback=LIGHTJSONP1652555097053”. world.taobao.com:1:1
+TTFB: 4501

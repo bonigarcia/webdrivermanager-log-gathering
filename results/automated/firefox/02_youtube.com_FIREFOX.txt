@@ -1,0 +1,2 @@
+[03-05-2022 7:20:08 PM.611] [CONSOLE.INFO] LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.

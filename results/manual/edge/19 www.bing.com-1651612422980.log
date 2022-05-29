@@ -1,0 +1,11 @@
+/?toWww=1&redig=CC2679C673A54579B4A9DFD5891F92CB:1 
+        
+       [Report Only] Refused to load the script 'https://www.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js' because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-uvRwZJfE0f74VIDq+i3AFPgxIa1VsVLW28Nuh4mNYlg='". Note that 'strict-dynamic' is present, so host-based allowlisting is disabled. Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+?toWww=1&redig=CC2679C673A54579B4A9DFD5891F92CB:2 
+        
+       Uncaught ReferenceError: _ge is not defined
+    at ?toWww=1&redig=CC2679C673A54579B4A9DFD5891F92CB:2:13
+(anonymous) @ ?toWww=1&redig=CC2679C673A54579B4A9DFD5891F92CB:2
+t3AZrPm6P8cWJzaHDi7qWyH9DDo.br.js:1 
+        

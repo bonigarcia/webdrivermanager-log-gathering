@@ -1,0 +1,4 @@
+Content Security Policy: The page’s settings observed the loading of a resource at https://edge-mcdn.secure.yahoo.com/ybar/cerebro_min.js (“script-src”). A CSP report is being sent.
+Content Security Policy: The page’s settings observed the loading of a resource at https://edge-mcdn.secure.yahoo.com/ybar/exp.json (“connect-src”). A CSP report is being sent. cerebro_min.js:1:946
+marked all experiments to run as expCount >= expList length cerebro_min.js:1:1276
+not sending beacons

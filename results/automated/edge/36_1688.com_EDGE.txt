@@ -1,0 +1,12 @@
+[03-05-2022 7:39:17 PM.493] [LISTENER.ERROR] error undefined
+[03-05-2022 7:39:17 PM.708] [CONSOLE.WARN] [load-js: duplicate script with url:, https://astyle.alicdn.com/fdevlib/js/gallery/jquery/jquery-latest.js]
+[03-05-2022 7:39:17 PM.735] [CONSOLE.WARN] [load-js: duplicate script with url:, https://astyle.alicdn.com/fdevlib/js/lofty/port/lofty.js]
+[03-05-2022 7:39:17 PM.736] [CONSOLE.WARN] [load-js: duplicate script with url:, https://astyle.alicdn.com/fdevlib/js/lofty/alicn/suggestion/3.0/input.js]
+[03-05-2022 7:39:18 PM.076] [CONSOLE.WARN] [[iLoader], ??sdk-loader???????????????? html??????"ihelper/sdk-loader"]
+[03-05-2022 7:39:18 PM.147] [CONSOLE.ERROR] [jsonpMbox]method: listContentsByRule4SellerScene, params: {"tppId":"17849","poolId":"1052722","tabType":"commonToutiaoFeeds","offset":0,"pageSize":10}, Error: mbox request failed, errors: [{"msg":"???CSRF Token","code":"invalid_csrf_token"}]
+    at https://g.alicdn.com/assets-group/pc-home-1688/0.1.348/pages/home/index.js:1:79709
+[03-05-2022 7:39:18 PM.147] [CONSOLE.ERROR] {}
+[03-05-2022 7:39:18 PM.148] [CONSOLE.ERROR] [jsonpMbox]method: getBuyerIdentityAndRightInfos, params: {"decodeCharset":"utf8","queryChannel":"HOMEPAGE_PC"}, Error: mbox request failed, errors: [{"msg":"???CSRF Token","code":"invalid_csrf_token"}]
+    at https://g.alicdn.com/assets-group/pc-home-1688/0.1.348/pages/home/index.js:1:79709
+[03-05-2022 7:39:18 PM.149] [CONSOLE.ERROR] [jsonpMbox]method: getBuyerIdentityAndRightInfos, params: {"decodeCharset":"utf8","queryChannel":"HOMEPAGE_PC"}, Error: mbox request failed, errors: [{"msg":"???CSRF Token","code":"invalid_csrf_token"}]
+    at https://g.alicdn.com/assets-group/pc-home-1688/0.1.348/pages/home/index.js:1:79709

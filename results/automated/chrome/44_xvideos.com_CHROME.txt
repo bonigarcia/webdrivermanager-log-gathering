@@ -1,0 +1,4 @@
+[08-05-2022 3:33:18 PM.935] [CONSOLE.LOG] 2022-05-08T13:33:18.935Z: Request #0 Placement #0 was pushed with zone {"id":4353796,"sub":123450000,"keywords":""}
+[08-05-2022 3:33:18 PM.938] [CONSOLE.LOG] 2022-05-08T13:33:18.938Z: Request #0 Placement #0 was pushed with properties {"id":4353796,"sub":123450000,"keywords":""}
+[08-05-2022 3:33:18 PM.938] [CONSOLE.LOG] 2022-05-08T13:33:18.938Z: Request #0 is being served.
+[08-05-2022 3:33:19 PM.210] [CONSOLE.LOG] 2022-05-08T13:33:19.210Z: Request #0 handling the response

@@ -1,0 +1,4 @@
+[03-05-2022 7:41:53 PM.928] [CONSOLE.INFO] [default] appid: 1988, userInfo:{"user_type":12,"user_id":"","user_is_login":false}
+[03-05-2022 7:41:53 PM.929] [CONSOLE.INFO] [default] appid: 1988, sdk is ready, version is 5.0.18_oversea, you can report now !!!
+[03-05-2022 7:41:54 PM.349] [LISTENER.UNHANDLEDREJECTION] unhandledrejection AbortError: The play() request was interrupted by a call to pause().
+[03-05-2022 7:41:54 PM.562] [CONSOLE.LOG] [teainit, MALI_VA]

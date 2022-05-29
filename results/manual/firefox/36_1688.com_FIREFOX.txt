@@ -1,0 +1,27 @@
+
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://g.alicdn.com/AWSC/uab/1.140.0/collina.js collina.js
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://g.alicdn.com/AWSC/WebUMID/1.88.4/um.js um.js
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://polyfill.alicdn.com/modern/polyfill.min.js polyfill.min.js
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://astyle.alicdn.com/sys/js/universal/alibar/v6/v6.js?_v=5503711.js v6.js
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://astyle.alicdn.com/fdevlib/js/lofty/port/lofty.js?_v=5503711.js lofty.js
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://astyle.alicdn.com/fdevlib/js/gallery/jquery/jquery-latest.js jquery-latest.js
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://astyle.alicdn.com/fdevlib/js/lofty/port/lofty.js lofty.js
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://astyle.alicdn.com/fdevlib/js/lofty/alicn/suggestion/3.0/input.js input.js
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_f.js?v=1 g.alicdn.com
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://g.alicdn.com/AWSC/et/1.62.1/et_f.js et_f.js
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://astyle.alicdn.com/pkg/@alife/vbar-atmo-inverted-app/1.1.5/index.css index.css
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://astyle.alicdn.com/pkg/@alife/vbar-notification/1.2.13/index.css index.css
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://g.alicdn.com/dinamic/barrier-free/0.0.8/aria.js?appid=202d0f4d94e8856298b46b53c6d1ea96 aria.js
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://g.alicdn.com/ihelper/sdk-loader/index.js index.js
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://g.alicdn.com/assets-group/pc-home-1688/0.1.348/pages/home/index.js index.js
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://g.alicdn.com/AWSC/AWSC/awsc.js awsc.js
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://astyle.alicdn.com/app/home/v2016/common/js/webp.js?_v=5503711.js webp.js
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://astyle.alicdn.com/fdevlib/js/gallery/jquery/jquery-latest.js?_v=5503711.js jquery-latest.js
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://astyle.alicdn.com/??fdevlib/js/gallery/jquery/jquery-latest.js,fdevlib/js/app/async/async.js,app/home/v2015/js/common/app.js?_v=1651113550711 astyle.alicdn.com
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://g.alicdn.com/secdev/entry/index.js index.js
+WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER. collina.js:4:30907
+Use of the orientation sensor is deprecated. collina.js:2:28648
+collina.js:5:4991
+
+​
+

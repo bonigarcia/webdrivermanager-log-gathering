@@ -1,0 +1,12 @@
+VM347 sinaads.js:7 Uncaught TypeError: Cannot read properties of null (reading 'attachEvent')
+    at Object.on (VM347 sinaads.js:7:8922)
+    at (index):4941:25
+on @ VM347 sinaads.js:7
+(anonymous) @ (index):4941
+Cross-Origin Read Blocking (CORB) blocked cross-origin response <URL> with MIME type application/json. See <URL> for more details.
+Cross-Origin Read Blocking (CORB) blocked cross-origin response <URL> with MIME type application/json. See <URL> for more details.
+Cross-Origin Read Blocking (CORB) blocked cross-origin response <URL> with MIME type application/json. See <URL> for more details.
+Cross-Origin Read Blocking (CORB) blocked cross-origin response <URL> with MIME type application/json. See <URL> for more details.
+Cross-Origin Read Blocking (CORB) blocked cross-origin response <URL> with MIME type application/json. See <URL> for more details.
+Cross-Origin Read Blocking (CORB) blocked cross-origin response <URL> with MIME type application/json. See <URL> for more details.
+Cross-Origin Read Blocking (CORB) blocked cross-origin response <URL> with MIME type application/json. See <URL> for more details.

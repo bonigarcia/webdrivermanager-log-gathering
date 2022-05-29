@@ -1,0 +1,7 @@
+
+Some cookies are misusing the recommended “SameSite“ attribute 7
+The resource from “https://www.netflix.com/personalization/cl2/freeform/WebsiteDetect?source=wwwhead&fetchType=css&modalView=nmLanding” was blocked due to MIME type (“”) mismatch (X-Content-Type-Options: nosniff).
+es-en
+
+​
+

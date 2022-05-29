@@ -1,0 +1,13 @@
+Cookie “RoutingKeyCookie” has been rejected because it is already expired. owa
+Cookie “HostSwitchPrg” has been rejected because it is already expired. owa
+Cookie “OptInPrg” has been rejected because it is already expired. owa
+Cookie “O365Consumer” has been rejected because it is already expired. owa
+Some cookies are misusing the recommended “SameSite“ attribute 8
+The stylesheet https://r4.res.office365.com/owa/prem/15.20.5206.12/scripts/boot.worldwide.0.mouse.js was not loaded because its MIME type, “application/x-javascript”, is not “text/css”. prefetch.aspx
+The stylesheet https://r4.res.office365.com/owa/prem/15.20.5206.12/scripts/boot.worldwide.1.mouse.js was not loaded because its MIME type, “application/x-javascript”, is not “text/css”. prefetch.aspx
+The stylesheet https://r4.res.office365.com/owa/prem/15.20.5206.12/scripts/boot.worldwide.2.mouse.js was not loaded because its MIME type, “application/x-javascript”, is not “text/css”. prefetch.aspx
+The stylesheet https://r4.res.office365.com/owa/prem/15.20.5206.12/scripts/boot.worldwide.3.mouse.js was not loaded because its MIME type, “application/x-javascript”, is not “text/css”. prefetch.aspx
+The stylesheet https://r4.res.office365.com/owa/prem/15.20.5206.12/resources/images/0/sprite1.mouse.png was not loaded because its MIME type, “image/png”, is not “text/css”. prefetch.aspx
+
+​
+

@@ -1,0 +1,7 @@
+
+Specified “type” attribute of “video/mp4; codecs=hevc,mp4a.40.2” is not supported. Load of media resource https://github.githubassets.com/images/modules/site/home/globe-900.hevc.mp4 failed. Trying to load from next <source> element. github.com
+Specified “type” attribute of “video/mp4; codecs=hevc,mp4a.40.2” is not supported. Load of media resource https://github.githubassets.com/images/modules/site/home/globe-500.hevc.mp4 failed. Trying to load from next <source> element. github.com
+Specified “type” attribute of “video/mp4; codecs=hevc,mp4a.40.2” is not supported. Load of media resource https://github.githubassets.com/images/modules/site/home/actions-autocomplete.hevc.mp4 failed. Trying to load from next <source> element. github.com
+
+​
+

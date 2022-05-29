@@ -1,0 +1,16 @@
+[03-05-2022 7:39:00 PM.959] [CONSOLE.LOG] {toString={}}
+[03-05-2022 7:39:01 PM.509] [LISTENER.ERROR] error undefined
+[03-05-2022 7:39:01 PM.603] [CONSOLE.WARN] [load-js: duplicate script with url:, https://astyle.alicdn.com/fdevlib/js/gallery/jquery/jquery-latest.js]
+[03-05-2022 7:39:01 PM.603] [CONSOLE.WARN] [load-js: duplicate script with url:, https://astyle.alicdn.com/fdevlib/js/lofty/port/lofty.js]
+[03-05-2022 7:39:01 PM.603] [CONSOLE.WARN] [load-js: duplicate script with url:, https://astyle.alicdn.com/fdevlib/js/lofty/alicn/suggestion/3.0/input.js]
+[03-05-2022 7:39:01 PM.844] [CONSOLE.WARN] [[iLoader], ??sdk-loader???????????????? html??????"ihelper/sdk-loader"]
+[03-05-2022 7:39:02 PM.036] [CONSOLE.ERROR] [jsonpMbox]method: listContentsByRule4SellerScene, params: {"tppId":"17849","poolId":"1052722","tabType":"commonToutiaoFeeds","offset":0,"pageSize":10}, r/e.jsonpMbox/<@https://g.alicdn.com/assets-group/pc-home-1688/0.1.348/pages/home/index.js:1:79709
+
+[03-05-2022 7:39:02 PM.036] [CONSOLE.ERROR] {}
+[03-05-2022 7:39:02 PM.072] [CONSOLE.ERROR] [jsonpMbox]method: getBuyerIdentityAndRightInfos, params: {"decodeCharset":"utf8","queryChannel":"HOMEPAGE_PC"}, r/e.jsonpMbox/<@https://g.alicdn.com/assets-group/pc-home-1688/0.1.348/pages/home/index.js:1:79709
+
+[03-05-2022 7:39:02 PM.076] [LISTENER.UNHANDLEDREJECTION] unhandledrejection Error: Error: mbox request failed, errors: [{"msg":"???CSRF Token","code":"invalid_csrf_token"}]
+[03-05-2022 7:39:02 PM.080] [CONSOLE.ERROR] [jsonpMbox]method: getBuyerIdentityAndRightInfos, params: {"decodeCharset":"utf8","queryChannel":"HOMEPAGE_PC"}, r/e.jsonpMbox/<@https://g.alicdn.com/assets-group/pc-home-1688/0.1.348/pages/home/index.js:1:79709
+
+[03-05-2022 7:39:03 PM.864] [LISTENER.ERROR] error undefined
+[03-05-2022 7:39:07 PM.641] [LISTENER.ERROR] error undefined

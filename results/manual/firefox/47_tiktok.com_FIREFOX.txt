@@ -1,0 +1,18 @@
+
+Some cookies are misusing the recommended “SameSite“ attribute 4
+Use of the orientation sensor is deprecated. init.js:1:58063
+Error: 
+init.js:1:58064
+[default] appid: 1988, userInfo:{"user_type":12,"user_id":"","user_is_login":false} vendor.6c876e7361cafcbaccb4.js:2:58467
+[default] appid: 1988, sdk is ready, version is 5.0.18_oversea, you can report now !!! vendor.6c876e7361cafcbaccb4.js:2:58571
+WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER. init.js:1:58064
+Use of the motion sensor is deprecated. webmssdk.js:1:220093
+WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER. webmssdk.js:1:129561
+Autoplay is only allowed when approved by the user, the site is activated by the user, or media is muted. 3712.66eef4fa2e0ff57d38be.js:1:329650
+Autoplay is only allowed when approved by the user, the site is activated by the user, or media is muted. 3712.66eef4fa2e0ff57d38be.js:1:329650
+Uncaught (in promise) DOMException: The fetching process for the media resource was aborted by the user agent at the user's request.
+Ignoring unsupported entryTypes: longtask. perf.0.7.7.maliva.js:1:6237
+teainit MALI_VA p-483aa92e.entry.js:1:120281
+
+​
+

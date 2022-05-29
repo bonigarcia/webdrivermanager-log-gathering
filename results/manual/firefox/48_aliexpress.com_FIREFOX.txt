@@ -1,0 +1,19 @@
+
+Some cookies are misusing the recommended “SameSite“ attribute 2
+Loading failed for the <script> with source “https://assets.alicdn.com/g/??code/npm/@alife/nano-batman-dialog/1.0.16/batman-dialog.js”. www.aliexpress.com:1:1
+This page uses the non standard property “zoom”. Consider using calc() in the relevant property values, or using “transform” along with “transform-origin: 0 0”. www.aliexpress.com
+Some cookies are misusing the recommended “SameSite“ attribute 7
+This page is in Quirks Mode. Page layout may be impacted. For Standards Mode use “<!DOCTYPE html>”.
+2 www.aliexpress.com:121:1177
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://assets.alicdn.com/g/secdev/sufei_data/3.9.9/index.js index.js:1:552
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://assets.alicdn.com/g??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1 index.js:1:552
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://assets.alicdn.com/g/AWSC/et/1.62.1/et_n.js index.js:1:552
+Use of the orientation sensor is deprecated. index.js:1:3912
+WebGL context was lost. index.js:1:5488
+WebGL context was lost. g:5:13258
+g:5:24115
+WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER. et_n.js:1:26444
+WebGL context was lost. et_n.js:4:1733
+
+​
+

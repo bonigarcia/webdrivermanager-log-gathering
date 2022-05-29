@@ -1,0 +1,2 @@
+[03-05-2022 7:40:13 PM.806] [CONSOLE.INFO] Getting LocalStorageManager instance
+[03-05-2022 7:40:13 PM.883] [LISTENER.ERROR] error undefined

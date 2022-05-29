@@ -1,0 +1,26 @@
+Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.
+github.com/:754 [Intervention] Images loaded lazily and replaced with placeholders. Load events are deferred. See https://go.microsoft.com/fwlink/?linkid=2048113
+main.js:2 
+        
+       A preload for 'https://github.com/webgl-globe/data/data.json' is found, but is not used because the request credentials mode does not match. Consider taking a look at crossorigin attribute.
+Ql @ main.js:2
+loadData @ main.js:2
+(anonymous) @ main.js:2
+Promise.then (async)
+(anonymous) @ main.js:2
+init @ main.js:2
+(anonymous) @ main.js:2
+await in (anonymous) (async)
+(anonymous) @ main.js:2
+(anonymous) @ main.js:2
+23198 @ main.js:2
+__webpack_require__ @ bootstrap:19
+94589 @ webgl-globe-72040f00cce7.js:1
+__webpack_require__ @ bootstrap:19
+__webpack_exec__ @ webgl-globe-72040f00cce7.js:1
+(anonymous) @ webgl-globe-72040f00cce7.js:1
+r.O @ chunk loaded:23
+(anonymous) @ webgl-globe-72040f00cce7.js:1
+webpackJsonpCallback @ jsonp chunk loading:71
+(anonymous) @ webgl-globe-72040f00cce7.js:1
+(anonymous) @ webgl-globe-72040f00cce7.js:1

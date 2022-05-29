@@ -1,0 +1,38 @@
+This page uses the non standard property “zoom”. Consider using calc() in the relevant property values, or using “transform” along with “transform-origin: 0 0”. www.instagram.com
+Some cookies are misusing the recommended “SameSite“ attribute 41
+Cookie “csrftoken” has been rejected for invalid domain. batch_fetch_web
+Cookie “csrftoken” has been rejected for invalid domain. batch_fetch_web
+Cookie “mid” has been rejected for invalid domain. batch_fetch_web
+Cookie “mid” has been rejected for invalid domain. batch_fetch_web
+Cookie “csrftoken” has been rejected because it is already expired. batch_fetch_web
+Cookie “csrftoken” has been rejected because it is already expired. batch_fetch_web
+Cookie “csrftoken” has been rejected for invalid domain. batch_fetch_web
+Cookie “csrftoken” has been rejected for invalid domain. batch_fetch_web
+Cookie “csrftoken” has been rejected because it is already expired. batch_fetch_web
+Cookie “csrftoken” has been rejected because it is already expired. batch_fetch_web
+Cookie “csrftoken” has been rejected because it is already expired. batch_fetch_web
+Cookie “mid” has been rejected because it is already expired. batch_fetch_web
+Cookie “mid” has been rejected because it is already expired. batch_fetch_web
+Cookie “mid” has been rejected for invalid domain. batch_fetch_web
+Cookie “mid” has been rejected for invalid domain. batch_fetch_web
+Cookie “mid” has been rejected because it is already expired. batch_fetch_web
+Cookie “mid” has been rejected because it is already expired. batch_fetch_web
+Cookie “mid” has been rejected because it is already expired. batch_fetch_web
+Cookie “csrftoken” has been rejected for invalid domain. bz
+Cookie “csrftoken” has been rejected for invalid domain. bz
+Cookie “mid” has been rejected for invalid domain. bz
+Cookie “mid” has been rejected for invalid domain. bz
+Cookie “csrftoken” has been rejected because it is already expired. bz
+Cookie “csrftoken” has been rejected because it is already expired. bz
+Cookie “csrftoken” has been rejected for invalid domain. bz
+Cookie “csrftoken” has been rejected for invalid domain. bz
+Cookie “csrftoken” has been rejected because it is already expired. bz
+Cookie “csrftoken” has been rejected because it is already expired. bz
+Cookie “csrftoken” has been rejected because it is already expired. bz
+Cookie “mid” has been rejected because it is already expired. bz
+Cookie “mid” has been rejected because it is already expired. bz
+Cookie “mid” has been rejected for invalid domain. bz
+Cookie “mid” has been rejected for invalid domain. bz
+Cookie “mid” has been rejected because it is already expired. bz
+Cookie “mid” has been rejected because it is already expired. bz
+Cookie “mid” has been rejected because it is already expired. bz

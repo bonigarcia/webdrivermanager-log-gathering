@@ -1,0 +1,6 @@
+Cookie “twitch.lohp.countryCode” will be soon rejected because it has the “SameSite” attribute set to “None” or an invalid value, without the “secure” attribute. To know more about the “SameSite“ attribute, read https://developer.mozilla.org/docs/Web/HTTP/Headers/Set-Cookie/SameSite www.twitch.tv
+Download the Apollo DevTools for a better development experience: https://addons.mozilla.org/en-US/firefox/addon/apollo-developer-tools/ vendor-13cc4e66375991f60581.js:1:97761
+Amazon IVS Player SDK 1.10.0-twitch.2-rc.1 amazon-ivs-wasmworker.min-d5099cd30cc0e8f22493.js:1:21383
+
+​
+

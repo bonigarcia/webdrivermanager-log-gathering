@@ -1,0 +1,2 @@
+[03-05-2022 7:33:14 PM.392] [CONSOLE.WARN] Carousel is deprecated, please use either MultiSlideCarousel or SingleSlideCarousel instead.
+[03-05-2022 7:33:14 PM.400] [CONSOLE.WARN] Carousel is deprecated, please use either MultiSlideCarousel or SingleSlideCarousel instead.

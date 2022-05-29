@@ -1,0 +1,9 @@
+
+This page uses the non standard property “zoom”. Consider using calc() in the relevant property values, or using “transform” along with “transform-origin: 0 0”. www.amazon.in
+Some cookies are misusing the recommended “SameSite“ attribute 2
+Ignoring unsupported entryTypes: layout-shift. www.amazon.in:1898:9051
+Ignoring unsupported entryTypes: longtask. www.amazon.in:1898:9562
+Ignoring unsupported entryTypes: largest-contentful-paint. www.amazon.in:1898:9675
+
+​
+

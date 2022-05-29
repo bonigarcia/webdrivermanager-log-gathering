@@ -1,0 +1,166 @@
+Content Security Policy: Ignoring “'self'” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “'unsafe-inline'” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “blob:” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “https:” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “'self'” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “'unsafe-inline'” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “blob:” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “https:” within script-src: ‘strict-dynamic’ specified
+This page uses the non standard property “zoom”. Consider using calc() in the relevant property values, or using “transform” along with “transform-origin: 0 0”. www.zoom.us
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). www.zoom.us
+Referrer Policy: Ignoring the less restricted referrer policy “origin-when-cross-origin” for the cross-site request: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js otSDKStub.js
+Some cookies are misusing the recommended “SameSite“ attribute 3
+Cookie “optimizelyOptOut” has been rejected for invalid domain. optimizely.js:2:133295
+Content Security Policy: The page’s settings blocked the loading of a resource at eval (“script-src”). optimizely.js:2:138868
+Referrer Policy: Ignoring the less restricted referrer policy “origin-when-cross-origin” for the cross-site request: https://static.ada.support/embed2.js embed2.js
+Cookie “zm_aid” has been rejected because it is already expired. www.zoom.us
+Cookie “zm_haid” has been rejected because it is already expired. www.zoom.us
+Cookie “zm_tmaid” has been rejected because it is already expired. www.zoom.us
+Cookie “zm_htmaid” has been rejected because it is already expired. www.zoom.us
+Cookie “zm_aid” has been rejected because it is already expired. csrf_js
+Cookie “zm_haid” has been rejected because it is already expired. csrf_js
+Cookie “zm_tmaid” has been rejected because it is already expired. csrf_js
+Cookie “zm_htmaid” has been rejected because it is already expired. csrf_js
+Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user’s experience. For more help http://xhr.spec.whatwg.org/ csrf_js:87:23
+Cookie “zm_aid” has been rejected because it is already expired. csrf_js
+Cookie “zm_haid” has been rejected because it is already expired. csrf_js
+Cookie “zm_tmaid” has been rejected because it is already expired. csrf_js
+Cookie “zm_htmaid” has been rejected because it is already expired. csrf_js
+unreachable code after return statement
+confirmSignUpWithAgeDialog.min.js:1:1295
+unreachable code after return statement
+confirmSignUpWithAgeDialog.min.js:1:1132
+unreachable code after return statement
+confirmSignUpWithAgeDialog.min.js:1:1295
+unreachable code after return statement
+confirmSignUpWithAgeDialog.min.js:1:1132
+Referrer Policy: Ignoring the less restricted referrer policy “origin-when-cross-origin” for the cross-site request: https://www.googletagmanager.com/gtm.js?id=GTM-5WKFT9 www.zoom.us:2377:13
+Referrer Policy: Ignoring the less restricted referrer policy “origin-when-cross-origin” for the cross-site request: https://static.ada.support/embed-manifest.json embed2.js:1:3764
+Referrer Policy: Ignoring the less restricted referrer policy “origin-when-cross-origin” for the cross-site request: https://cdn.cookielaw.org/consent/b0bfa2ae-4058-4aef-8632-a5281ce4464a/b0bfa2ae-4058-4aef-8632-a5281ce4464a.json csrf_js:96:23
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). www.zoom.us
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). www.zoom.us
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). www.zoom.us
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). www.zoom.us
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). www.zoom.us
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). www.zoom.us
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). www.zoom.us
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). www.zoom.us
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). www.zoom.us
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). www.zoom.us
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). www.zoom.us
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). www.zoom.us
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). www.zoom.us
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). www.zoom.us
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). www.zoom.us
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). www.zoom.us
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). www.zoom.us
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). www.zoom.us
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). www.zoom.us
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). www.zoom.us
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). www.zoom.us
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). www.zoom.us
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). www.zoom.us
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). www.zoom.us
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). www.zoom.us
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). www.zoom.us
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). www.zoom.us
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). www.zoom.us
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). www.zoom.us
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). www.zoom.us
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). www.zoom.us
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). www.zoom.us
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). www.zoom.us
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). www.zoom.us
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). www.zoom.us
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). www.zoom.us
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). www.zoom.us
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). www.zoom.us
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). www.zoom.us
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). www.zoom.us
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). www.zoom.us
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). www.zoom.us
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). www.zoom.us
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). www.zoom.us
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). www.zoom.us
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). www.zoom.us
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). www.zoom.us
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). www.zoom.us
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). www.zoom.us
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). www.zoom.us
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). 21 www.zoom.us
+Content Security Policy: Ignoring “'self'” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “'unsafe-inline'” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “blob:” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “https:” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “'self'” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “'unsafe-inline'” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “blob:” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “https:” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “'self'” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “'unsafe-inline'” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “blob:” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “https:” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “'self'” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “'unsafe-inline'” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “blob:” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “https:” within script-src: ‘strict-dynamic’ specified
+Referrer Policy: Ignoring the less restricted referrer policy “origin-when-cross-origin” for the cross-site request: https://www.google.com/recaptcha/enterprise.js?hl=en captcha.min.js:1:1077
+Referrer Policy: Ignoring the less restricted referrer policy “origin-when-cross-origin” for the cross-site request: https://www.gstatic.com/recaptcha/releases/0aeEuuJmrVqDrEL39Fsg5-UJ/recaptcha__en.js enterprise.js:1:915
+Uncaught TypeError: document.querySelector(...) is null
+    <anonymous> https://www.zoom.us/ line 480 > injectedScript:3
+    a https://www.googletagmanager.com/gtm.js?id=GTM-5WKFT9:480
+    b https://www.googletagmanager.com/gtm.js?id=GTM-5WKFT9:481
+    re https://www.googletagmanager.com/gtm.js?id=GTM-5WKFT9:87
+    e https://www.googletagmanager.com/gtm.js?id=GTM-5WKFT9:212
+    Va https://www.googletagmanager.com/gtm.js?id=GTM-5WKFT9:37
+    mn https://www.googletagmanager.com/gtm.js?id=GTM-5WKFT9:213
+    kn https://www.googletagmanager.com/gtm.js?id=GTM-5WKFT9:213
+    qs https://www.googletagmanager.com/gtm.js?id=GTM-5WKFT9:323
+    zs https://www.googletagmanager.com/gtm.js?id=GTM-5WKFT9:328
+    nt https://www.googletagmanager.com/gtm.js?id=GTM-5WKFT9:337
+    pt https://www.googletagmanager.com/gtm.js?id=GTM-5WKFT9:339
+    push https://www.googletagmanager.com/gtm.js?id=GTM-5WKFT9:344
+    tt https://www.googletagmanager.com/gtm.js?id=GTM-5WKFT9:343
+    setTimeout handler*K https://www.googletagmanager.com/gtm.js?id=GTM-5WKFT9:49
+    Hm https://www.googletagmanager.com/gtm.js?id=GTM-5WKFT9:204
+    <anonymous> https://www.googletagmanager.com/gtm.js?id=GTM-5WKFT9:508
+    <anonymous> https://www.googletagmanager.com/gtm.js?id=GTM-5WKFT9:505
+    <anonymous> https://www.googletagmanager.com/gtm.js?id=GTM-5WKFT9:505
+    <anonymous> https://www.googletagmanager.com/gtm.js?id=GTM-5WKFT9:513
+line 480 > injectedScript:3:279
+Content Security Policy: The page’s settings blocked the loading of a resource at eval (“script-src”). 4 gtm.js:3:55
+Content Security Policy: The page’s settings blocked the loading of a resource at inline (“script-src”). 7 line 480 > injectedScript:1:9
+Referrer Policy: Ignoring the less restricted referrer policy “origin-when-cross-origin” for the cross-site request: https://cdn.cookielaw.org/scripttemplates/6.21.0/otBannerSdk.js otSDKStub.js:1:8607
+Content Security Policy: Ignoring “'self'” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “'unsafe-inline'” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “blob:” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “https:” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “'self'” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “'unsafe-inline'” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “blob:” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “https:” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “'self'” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “'unsafe-inline'” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “blob:” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “https:” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “'self'” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “'unsafe-inline'” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “blob:” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “https:” within script-src: ‘strict-dynamic’ specified
+Referrer Policy: Ignoring the less restricted referrer policy “origin-when-cross-origin” for the cross-site request: https://static.ada.support/embed2.5a03f92.js embed2.js:1:7778
+Referrer Policy: Ignoring the less restricted referrer policy “origin-when-cross-origin” for the cross-site request: https://cdn.cookielaw.org/consent/b0bfa2ae-4058-4aef-8632-a5281ce4464a/28bd6c9a-7329-424f-9b91-c78f15a3fd80/en.json otBannerSdk.js:7:127054
+Content Security Policy: Ignoring “'unsafe-inline'” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “https:” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “http:” within script-src: ‘strict-dynamic’ specified
+This page is in Quirks Mode. Page layout may be impacted. For Standards Mode use “<!DOCTYPE html>”.
+a20673560014.html
+Referrer Policy: Ignoring the less restricted referrer policy “origin-when-cross-origin” for the cross-site request: https://static.ada.support/embed/modern/client/5a03f92/index.js embed2.5a03f92.js:1:81429
+Content Security Policy: Ignoring “'unsafe-inline'” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “https:” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “http:” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “'unsafe-inline'” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “https:” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “http:” within script-src: ‘strict-dynamic’ specified
+Referrer Policy: Ignoring the less restricted referrer policy “origin-when-cross-origin” for the cross-site request: https://cdn.cookielaw.org/scripttemplates/6.21.0/assets/otCenterRounded.json otBannerSdk.js:7:127054
+Referrer Policy: Ignoring the less restricted referrer policy “origin-when-cross-origin” for the cross-site request: https://cdn.cookielaw.org/scripttemplates/6.21.0/assets/v2/otPcCenter.json otBannerSdk.js:7:127054
+Referrer Policy: Ignoring the less restricted referrer policy “origin-when-cross-origin” for the cross-site request: https://cdn.cookielaw.org/scripttemplates/6.21.0/assets/otCommonStyles.css otBannerSdk.js:7:127054

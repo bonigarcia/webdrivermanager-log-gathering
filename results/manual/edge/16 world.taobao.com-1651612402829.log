@@ -1,0 +1,6 @@
+index.js:1 https://world.taobao.com logUrl
+index.js:1 {https://world.taobao.com: Array(1), https://at.alicdn.com: Array(2), https://g.alicdn.com: Array(10), https://www.googletagmanager.com: Array(1)}
+index.js:1 {https://world.taobao.com: {…}, https://at.alicdn.com: {…}, https://g.alicdn.com: {…}, https://www.googletagmanager.com: {…}}
+index.js:1 FCP: 1982.3999999761581
+DevTools failed to load source map: Could not load content for https://g.alicdn.com/tbhome/tb-gnav/1.0.12/index.css.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+index.js:1 TTFB: 1735.8999999761581

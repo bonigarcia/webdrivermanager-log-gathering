@@ -1,0 +1,5 @@
+GET https://www.yahoo.co.jp/
+[HTTP/2 403 Forbidden 433ms]
+
+​
+

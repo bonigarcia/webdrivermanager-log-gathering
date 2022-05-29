@@ -1,0 +1,6 @@
+LegacyDataMixin will be applied to all legacy elements.
+	Set `_legacyUndefinedCheck: true` on element class to enable. desktop_polymer.js:4396:9
+Some cookies are misusing the recommended “SameSite“ attribute 3
+Cookie “VISITOR_INFO1_LIVE” has been rejected because it is already expired. www.youtube.com
+Content Security Policy: Couldn’t process unknown directive ‘require-trusted-types-for’
+Content Security Policy: Ignoring “'unsafe-inline'” within script-src or style-src: nonce-source or hash-source specified

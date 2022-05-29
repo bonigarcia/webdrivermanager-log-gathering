@@ -1,0 +1,21 @@
+
+Some cookies are misusing the recommended “SameSite“ attribute 11
+Cookie “ULC” has been rejected because it is already expired. www.bing.com
+Cookie “ULC” has been rejected because it is already expired. model
+The script from “https://4.bing.com/ipv6test/test” was loaded even though its MIME type (“text/html”) is not a valid JavaScript MIME type.
+www.bing.com
+This page is in Quirks Mode. Page layout may be impacted. For Standards Mode use “<!DOCTYPE html>”.
+authorize
+This page is in Quirks Mode. Page layout may be impacted. For Standards Mode use “<!DOCTYPE html>”.
+2 Passport.aspx
+Cookie “MUIDB” will be soon rejected because it has the “SameSite” attribute set to “None” or an invalid value, without the “secure” attribute. To know more about the “SameSite“ attribute, read https://developer.mozilla.org/docs/Web/HTTP/Headers/Set-Cookie/SameSite Passport.aspx
+Some cookies are misusing the recommended “SameSite“ attribute 2
+The character encoding of a framed document was not declared. The document may appear different if viewed without the document framing it. conditional
+This page is in Quirks Mode. Page layout may be impacted. For Standards Mode use “<!DOCTYPE html>”.
+conditional
+The character encoding of a framed document was not declared. The document may appear different if viewed without the document framing it. conditional
+This page is in Quirks Mode. Page layout may be impacted. For Standards Mode use “<!DOCTYPE html>”.
+conditional
+
+​
+

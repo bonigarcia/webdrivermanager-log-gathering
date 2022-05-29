@@ -1,0 +1,23 @@
+
+Content Security Policy: Ignoring “'unsafe-inline'” within script-src or style-src: nonce-source or hash-source specified
+Content Security Policy: Ignoring “'unsafe-inline'” within script-src or style-src: nonce-source or hash-source specified
+ WARNING!!!
+ This browser feature is for developers only. Please do not copy-paste any code or run any scripts here. It may cause your PayPal account to be compromised.
+ For more information, http://en.wikipedia.org/wiki/Self-XSS
+Content Security Policy: Ignoring “'unsafe-inline'” within script-src or style-src: nonce-source or hash-source specified 4
+Content Security Policy: Ignoring “'unsafe-inline'” within script-src or style-src: nonce-source or hash-source specified
+This page is in Quirks Mode. Page layout may be impacted. For Standards Mode use “<!DOCTYPE html>”.
+2 grcenterprise_v3.html
+Some cookies are misusing the recommended “SameSite“ attribute 8
+Content Security Policy: Ignoring “'unsafe-inline'” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “https:” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “http:” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “'unsafe-inline'” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “https:” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “http:” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “'unsafe-inline'” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “https:” within script-src: ‘strict-dynamic’ specified
+Content Security Policy: Ignoring “http:” within script-src: ‘strict-dynamic’ specified
+
+​
+

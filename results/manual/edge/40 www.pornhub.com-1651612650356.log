@@ -1,0 +1,30 @@
+Tracking Prevention blocked access to storage for <URL>.
+Tracking Prevention blocked access to storage for <URL>.
+Tracking Prevention blocked access to storage for <URL>.
+Tracking Prevention blocked access to storage for <URL>.
+Tracking Prevention blocked access to storage for <URL>.
+Tracking Prevention blocked access to storage for <URL>.
+Tracking Prevention blocked access to storage for <URL>.
+Tracking Prevention blocked access to storage for <URL>.
+Tracking Prevention blocked access to storage for <URL>.
+Tracking Prevention blocked access to storage for <URL>.
+Tracking Prevention blocked access to storage for <URL>.
+Tracking Prevention blocked access to storage for <URL>.
+ph-functions.js?cache=2022050304:1 Getting LocalStorageManager instance
+	mg_utils-1.0.0.js?cache=2022050304:1 
+        
+The provided value 'html' is not a valid enum value of type XMLHttpRequestResponseType.
+	ajaxCall @ mg_utils-1.0.0.js?cache=2022050304:1
+	(anonymous) @ generated-lib.js?cache=2022050304:2
+	createMenuInStorage @ generated-lib.js?cache=2022050304:2
+	init @ generated-lib.js?cache=2022050304:2
+	(anonymous) @ generated-lib.js?cache=2022050304:2
+	t @ mg_utils-1.0.0.js?cache=2022050304:1
+	front-index.js?cache=2022050304:1 
+        
+Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')
+    at front-index.js?cache=2022050304:1:2582
+    at HTMLDocument.t (mg_utils-1.0.0.js?cache=2022050304:1:6196)
+(anonymous) @ front-index.js?cache=2022050304:1
+t @ mg_utils-1.0.0.js?cache=2022050304:1
+(index):7836 ServiceWorker registration successful

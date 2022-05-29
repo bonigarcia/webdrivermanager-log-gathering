@@ -1,0 +1,54 @@
+Referrer Policy: Ignoring the less restricted referrer policy “no-referrer-when-downgrade” for the cross-site request: https://unpkg.zhimg.com/@cfe/sentry-script@1.3.1/dist/init.js signin:2:883
+Referrer Policy: Ignoring the less restricted referrer policy “no-referrer-when-downgrade” for the cross-site request: https://hm.baidu.com/hm.js?98beee57fd2ef70ccdd5ca52b9740c49 hm.js
+Some cookies are misusing the recommended “SameSite“ attribute 13
+Referrer Policy: Ignoring the less restricted referrer policy “no-referrer-when-downgrade” for the cross-site request: https://unpkg.zhimg.com/za-js-sdk@3.7.1/dist/zap.js main.app.956efe9a4370fadba1e9.js:20:14614
+
+          _____                    _____                    _____                    _____          
+         /\    \                  /\    \                  /\    \                  /\    \         
+        /::\____\                /::\    \                /::\    \                /::\    \        
+       /:::/    /                \:::\    \              /::::\    \              /::::\    \       
+      /:::/    /                  \:::\    \            /::::::\    \            /::::::\    \      
+     /:::/    /                    \:::\    \          /:::/\:::\    \          /:::/\:::\    \     
+    /:::/____/                      \:::\    \        /:::/__\:::\    \        /:::/__\:::\    \    
+   /::::\    \                      /::::\    \      /::::\   \:::\    \      /::::\   \:::\    \   
+  /::::::\    \   _____    ____    /::::::\    \    /::::::\   \:::\    \    /::::::\   \:::\    \  
+ /:::/\:::\    \ /\    \  /\   \  /:::/\:::\    \  /:::/\:::\   \:::\____\  /:::/\:::\   \:::\    \ 
+/:::/  \:::\    /::\____\/::\   \/:::/  \:::\____\/:::/  \:::\   \:::|    |/:::/__\:::\   \:::\____\
+\::/    \:::\  /:::/    /\:::\  /:::/    \::/    /\::/   |::::\  /:::|____|\:::\   \:::\   \::/    /
+ \/____/ \:::\/:::/    /  \:::\/:::/    / \/____/  \/____|:::::\/:::/    /  \:::\   \:::\   \/____/ 
+          \::::::/    /    \::::::/    /                 |:::::::::/    /    \:::\   \:::\    \     
+           \::::/    /      \::::/____/                  |::|\::::/    /      \:::\   \:::\____\    
+           /:::/    /        \:::\    \                  |::| \::/____/        \:::\   \::/    /    
+          /:::/    /          \:::\    \                 |::|  ~|               \:::\   \/____/     
+         /:::/    /            \:::\    \                |::|   |                \:::\    \         
+        /:::/    /              \:::\____\               \::|   |                 \:::\____\        
+        \::/    /                \::/    /                \:|   |                  \::/    /        
+         \/____/                  \/____/                  \|___|                   \/____/         
+
+知乎(zhihu.com)，招聘前端开发工程师 http://zhi.hu/BDXoD
+    init.js:1:14841
+Referrer Policy: Ignoring the less restricted referrer policy “no-referrer-when-downgrade” for the cross-site request: https://118.89.204.198/resolv?host=www.zhihu.com&os_type=web init.js:1:28084
+WebGL context was lost. main.zswsdid.f8dc5bb1a1d7ae98f4ab.js:1:25424
+WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER. main.zswsdid.f8dc5bb1a1d7ae98f4ab.js:1:20391
+WebGL context was lost. 2 main.zswsdid.f8dc5bb1a1d7ae98f4ab.js:1:25424
+WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER. main.zswsdid.f8dc5bb1a1d7ae98f4ab.js:1:21062
+WebGL context was lost. main.zswsdid.f8dc5bb1a1d7ae98f4ab.js:1:25424
+Referrer Policy: Ignoring the less restricted referrer policy “no-referrer-when-downgrade” for the cross-site request: https://cstaticdun.126.net/load.min.js main.app.956efe9a4370fadba1e9.js:74:8577
+Source map error: Error: request failed with status 404
+Resource URL: https://static.zhihu.com/heifetz/main.app.956efe9a4370fadba1e9.js
+Source Map URL: main.app.956efe9a4370fadba1e9.js.map
+
+Source map error: Error: request failed with status 404
+Resource URL: https://static.zhihu.com/heifetz/main.zswsdid.f8dc5bb1a1d7ae98f4ab.js
+Source Map URL: main.zswsdid.f8dc5bb1a1d7ae98f4ab.js.map
+
+Referrer Policy: Ignoring the less restricted referrer policy “no-referrer-when-downgrade” for the cross-site request: https://hm.baidu.com/hm.gif?hca=FD29EC6317437276&cc=1&ck=1&cl=24-bit&ds=1680x1050&vl=344&ep=347015%2C23729&et=3&ja=0&ln=en-us&lo=0&lt=1652554118&rnd=1931136087&si=98beee57fd2ef70ccdd5ca52b9740c49&v=1.2.93&lv=2&sn=23645&r=0&ww=1191&u=https%3A%2F%2Fwww.zhihu.com%2Fsignin%3Fnext%3D%252F hm.js:26:208
+Referrer Policy: Ignoring the less restricted referrer policy “no-referrer-when-downgrade” for the cross-site request: https://hm.baidu.com/hm.gif?cc=1&ck=1&cl=24-bit&ds=1680x1050&vl=344&et=0&ja=0&ln=en-us&lo=0&lt=1652554118&rnd=1955477629&si=98beee57fd2ef70ccdd5ca52b9740c49&v=1.2.93&lv=2&sn=23994&r=0&ww=1191&ct=!!&u=https%3A%2F%2Fwww.zhihu.com%2Fsignin%3Fnext%3D%252F&tt=%E7%9F%A5%E4%B9%8E%20-%20%E6%9C%89%E9%97%AE%E9%A2%98%EF%BC%8C%E5%B0%B1%E4%BC%9A%E6%9C%89%E7%AD%94%E6%A1%88 hm.js:26:208
+The script from “https://captcha.zhihu.com/api/v1/captcha/js?appId=captcha_common&captchaId=ffccaa537da544269b4c9c1dc84dcb73&sessionId=cyNAxoMpcNFoUs3E6%2FwNjpCYoB710TfRiFOr1WDuWsJYQKe2yxU98kIGRvSY1WAB” was loaded even though its MIME type (“text/plain”) is not a valid JavaScript MIME type.
+signin
+Referrer Policy: Ignoring the less restricted referrer policy “no-referrer-when-downgrade” for the cross-site request: https://cstaticdun.126.net/plugins.min.js?v=27542575 load.min.js:1:66705
+Referrer Policy: Ignoring the less restricted referrer policy “no-referrer-when-downgrade” for the cross-site request: https://c.dun.163.com/api/v2/getconf?referer=https%3A%2F%2Fwww.zhihu.com%2Fsignin&zoneId=&id=ffccaa537da544269b4c9c1dc84dcb73&ipv6=false&runEnv=10&loadVersion=2.2.3&callback=__JSONP_8luh24r_0 load.min.js:1:48249
+Referrer Policy: Ignoring the less restricted referrer policy “no-referrer-when-downgrade” for the cross-site request: https://acstatic-dun.126.net/tool.min.js?v=27542575 load.min.js:1:66705
+Referrer Policy: Ignoring the less restricted referrer policy “no-referrer-when-downgrade” for the cross-site request: https://cstaticdun.126.net/2.17.4/core.v2.17.4.min.js?v=2754257 load.min.js:1:66705
+Referrer Policy: Ignoring the less restricted referrer policy “no-referrer-when-downgrade” for the cross-site request: https://cstaticdun.126.net/2.17.4/light.v2.17.4.min.js?v=2754257 load.min.js:1:66705
+Referrer Policy: Ignoring the less restricted referrer policy “no-referrer-when-downgrade” for the cross-site request: https://ac.dun.163.com/v2/config/js?pn=YD00517437729195&cvk=a198e34c526f62b57a40e1e1a00e5a90&cb=__wmjsonp_7a196670&t=1652554556064

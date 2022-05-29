@@ -1,0 +1,9 @@
+
+When rendering the <html> element, the used values of CSS properties “writing-mode”, “direction”, and “text-orientation” on the <html> element are taken from the computed values of the <body> element, not from the <html> element’s own values. Consider setting these properties on the :root CSS pseudo-class. For more information see “The Principal Writing Mode” in https://www.w3.org/TR/css-writing-modes-3/#principal-flow www.aparat.com
+react-i18next:: It seems you are still using the old wait option, you may migrate to the new useSuspense behaviour. vendor.8cbc58aaf07515e4ca1e.js:2:1334998
+Some cookies are misusing the recommended “SameSite“ attribute 3
+Ignoring unsupported entryTypes: longtask. tag.js:391:377
+Request to access cookie or storage on “<URL>)” was blocked because it came from a tracker and content blocking is enabled. 2
+
+​
+

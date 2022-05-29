@@ -1,0 +1,3 @@
+[03-05-2022 7:40:08 PM.982] [CONSOLE.INFO] Getting LocalStorageManager instance
+[03-05-2022 7:40:09 PM.013] [LISTENER.ERROR] error undefined
+[03-05-2022 7:40:09 PM.240] [CONSOLE.LOG] ServiceWorker registration successful

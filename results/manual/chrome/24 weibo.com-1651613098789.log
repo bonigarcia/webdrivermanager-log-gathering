@@ -1,0 +1,76 @@
+about:blank;:1          GET about:blank; net::ERR_UNKNOWN_URL_SCHEME
+	Image (async)
+	(anonymous) @ overseas:136
+	bD @ overseas:136
+	(anonymous) @ overseas:136
+	bs @ overseas:136
+	(anonymous) @ overseas:136
+	requestAnimationFrame (async)
+	(anonymous) @ overseas:136
+	bs @ overseas:136
+	(anonymous) @ overseas:136
+	setTimeout (async)
+	c @ overseas:136
+	(anonymous) @ overseas:136
+	bs @ overseas:136
+	bt @ overseas:136
+	p @ overseas:136
+	q @ overseas:136
+	r @ overseas:136
+	bG @ overseas:136
+	FM.view @ overseas:136
+	(anonymous) @ overseas:139
+about:blank:1          GET about:blank net::ERR_UNKNOWN_URL_SCHEME
+	Image (async)
+	(anonymous) @ overseas:136
+	bD @ overseas:136
+	(anonymous) @ overseas:136
+	bs @ overseas:136
+	(anonymous) @ overseas:136
+	requestAnimationFrame (async)
+	(anonymous) @ overseas:136
+	bs @ overseas:136
+	(anonymous) @ overseas:136
+	setTimeout (async)
+	c @ overseas:136
+	(anonymous) @ overseas:136
+	bs @ overseas:136
+	bt @ overseas:136
+	p @ overseas:136
+	q @ overseas:136
+	r @ overseas:136
+	bG @ overseas:136
+	FM.view @ overseas:136
+	(anonymous) @ overseas:139
+overseas:1 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the lock icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.
+DevTools failed to load source map: Could not load content for https://cdn.jsdelivr.net/npm/hls.min.js.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+overseas:1 Access to XMLHttpRequest at 'https://passport.weibo.com/visitor/visitor?entry=miniblog&a=enter&url=https%3A%2F%2Fweibo.com%2Faj%2Flog%2Fuserdevice%3Fajwvr%3D6&domain=.weibo.com&sudaref=https%3A%2F%2Fweibo.com%2Foverseas&ua=php-sso_sdk_client-0.6.36&_rand=1651613100.1678' (redirected from 'https://weibo.com/aj/log/userdevice?ajwvr=6') from origin 'https://weibo.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+	base.js?version=91c79ed46b5606b9:1          GET https://passport.weibo.com/visitor/visitor?entry=miniblog&a=enter&url=https%3A%2F%2Fweibo.com%2Faj%2Flog%2Fuserdevice%3Fajwvr%3D6&domain=.weibo.com&sudaref=https%3A%2F%2Fweibo.com%2Foverseas&ua=php-sso_sdk_client-0.6.36&_rand=1651613100.1678 net::ERR_FAILED
+	(anonymous) @ base.js?version=91c79ed46b5606b9:1
+	c.request @ index.js?version=91c79ed46b5606b9:12
+	checkCookie @ index.js?version=91c79ed46b5606b9:17
+	p @ index.js?version=91c79ed46b5606b9:17
+	n @ index.js?version=91c79ed46b5606b9:17
+	(anonymous) @ index.js?version=91c79ed46b5606b9:17
+	e @ index.js?version=91c79ed46b5606b9:26
+	I @ base.js?version=91c79ed46b5606b9:2
+	bY @ base.js?version=91c79ed46b5606b9:2
+	(anonymous) @ base.js?version=91c79ed46b5606b9:2
+	G @ overseas:136
+	G @ overseas:136
+	bz @ overseas:136
+	o @ overseas:136
+	b @ overseas:136
+	(anonymous) @ overseas:136
+	(anonymous) @ overseas:136
+	bs @ overseas:136
+	bt @ overseas:136
+	bH @ overseas:136
+	I @ base.js?version=91c79ed46b5606b9:2
+	cW @ base.js?version=91c79ed46b5606b9:2
+	(anonymous) @ base.js?version=91c79ed46b5606b9:2
+	setTimeout (async)
+	bX @ base.js?version=91c79ed46b5606b9:2
+	bW @ base.js?version=91c79ed46b5606b9:2
+	(anonymous) @ base.js?version=91c79ed46b5606b9:2
+	c @ base.js?version=91c79ed46b5606b9:2

@@ -1,0 +1,28 @@
+
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://g.alicdn.com/secdev/sufei_data/3.9.9/index.js index.js:1:552
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1 index.js:1:552
+Referrer Policy: Less restricted policies, including ‘no-referrer-when-downgrade’, ‘origin-when-cross-origin’ and ‘unsafe-url’, will be ignored soon for the cross-site request: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js index.js:1:552
+Use of the orientation sensor is deprecated. index.js:1:3912
+WebGL context was lost. index.js:1:5488
+WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER. et_n.js:1:26444
+WebGL context was lost. et_n.js:4:1733
+Some cookies are misusing the recommended “SameSite“ attribute 12
+WebGL context was lost. g.alicdn.com:5:13258
+g.alicdn.com:5:24115
+The script from “https://h5api.m.tmall.com/h5/mtop.tmall.kangaroo.core.service.route.aldlampservice/1.0/?appKey=12574478&t=1651613705550&sign=6f5eac56b6b9e665f7da30fd1e645fb2&api=mtop.tmall.kangaroo.core.service.route.AldLampService&v=1.0&type=jsonp&dataType=jsonp&timeout=3000&callback=mtopjsonp1&data=%7B%22appId%22%3A14141892%2C%22bizId%22%3A20130909%7D” was loaded even though its MIME type (“application/json”) is not a valid JavaScript MIME type.
+www.tmall.com
+The script from “https://tui.taobao.com/recommend?appid=2144&floorId=73136&count=10&callback=__jp0” was loaded even though its MIME type (“application/json”) is not a valid JavaScript MIME type.
+www.tmall.com
+The script from “https://tui.taobao.com/recommend?appid=2144&floorId=73133&count=7&callback=__jp1” was loaded even though its MIME type (“application/json”) is not a valid JavaScript MIME type.
+www.tmall.com
+The script from “https://ecpm.tanx.com/ex?i=mm_12852562_1778064_111680500135&cb=jsonp_callback_56927&r=&cg=e33fbe371fbb5d27a6b24c3341f2810d&pvid=c69759030c23cfe9f522f2aceb1b7750&u=https%3A%2F%2Fwww.tmall.com%2F&psl=1&nk=&sk=&refpid=” was loaded even though its MIME type (“text/html”) is not a valid JavaScript MIME type.
+www.tmall.com
+The script from “https://ecpm.tanx.com/ex?i=mm_12852562_1778064_111676700306&cb=jsonp_callback_56963&r=&cg=bb66d767214e3fcc03baf4091389e9b5&pvid=c69759030c23cfe9f522f2aceb1b7750&u=https%3A%2F%2Fwww.tmall.com%2F&psl=1&nk=&sk=&refpid=” was loaded even though its MIME type (“text/html”) is not a valid JavaScript MIME type.
+www.tmall.com
+The script from “https://h5api.m.tmall.com/h5/mtop.tmall.kangaroo.core.service.route.aldlampservice/1.0/?appKey=12574478&t=1651613706877&sign=8d210651800db2aa0e8a3817e303ed1a&api=mtop.tmall.kangaroo.core.service.route.AldLampService&v=1.0&type=jsonp&dataType=jsonp&timeout=3000&callback=mtopjsonp4&data=%7B%22appId%22%3A%2215127714%2C15126649%22%2C%22bizId%22%3A20130909%7D” was loaded even though its MIME type (“application/json”) is not a valid JavaScript MIME type. www.tmall.com
+The script from “https://h5api.m.tmall.com/h5/mtop.tmall.kangaroo.core.service.route.aldlampservice/1.0/?appKey=12574478&t=1651613706876&sign=14683abe2299610f31e80156620ed9d2&api=mtop.tmall.kangaroo.core.service.route.AldLampService&v=1.0&type=jsonp&dataType=jsonp&timeout=3000&callback=mtopjsonp2&data=%7B%22appId%22%3A%2215347144%2C16412841%22%2C%22bizId%22%3A20130909%7D” was loaded even though its MIME type (“application/json”) is not a valid JavaScript MIME type. www.tmall.com
+The script from “https://h5api.m.tmall.com/h5/mtop.tmall.kangaroo.core.service.route.aldlampservice/1.0/?appKey=12574478&t=1651613706876&sign=6c90b3fed8f8c94ffb88883dbdd3eb43&api=mtop.tmall.kangaroo.core.service.route.AldLampService&v=1.0&type=jsonp&dataType=jsonp&timeout=3000&callback=mtopjsonp3&data=%7B%22appId%22%3A10760644%2C%22source%22%3A%22taobao_pc_biguang%22%2C%22count%22%3A20%2C%22bizId%22%3A20200922%7D” was loaded even though its MIME type (“application/json”) is not a valid JavaScript MIME type. www.tmall.com
+The script from “https://h5api.m.tmall.com/h5/mtop.tmall.kangaroo.core.service.route.aldlampservice/1.0/?appKey=12574478&t=1651613706877&sign=6e255b709b41e96846d85ac6fa72add4&api=mtop.tmall.kangaroo.core.service.route.AldLampService&v=1.0&type=jsonp&dataType=jsonp&timeout=3000&callback=mtopjsonp5&data=%7B%22appId%22%3A14269436%2C%22bizId%22%3A20130909%2C%22page%22%3A1%2C%22pageSize%22%3A20%7D” was loaded even though its MIME type (“application/json”) is not a valid JavaScript MIME type. www.tmall.com
+
+​
+

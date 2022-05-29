@@ -1,0 +1,26 @@
+Content Security Policy: Ignoring “'unsafe-inline'” within script-src or style-src: nonce-source or hash-source specified 3
+Loading failed for the <script> with source “https://abs.twimg.com/responsive-web/client-web/polyfills.38c32f56.js”. twitter.com:132:1
+Content Security Policy: Ignoring “'unsafe-inline'” within script-src or style-src: nonce-source or hash-source specified
+Content Security Policy: Ignoring “'unsafe-inline'” within script-src or style-src: nonce-source or hash-source specified 2
+Content Security Policy: Ignoring “'unsafe-inline'” within script-src or style-src: nonce-source or hash-source specified
+Content Security Policy: Ignoring “'unsafe-inline'” within script-src or style-src: nonce-source or hash-source specified
+Content Security Policy: Ignoring “'unsafe-inline'” within script-src or style-src: nonce-source or hash-source specified
+Content Security Policy: Ignoring “'unsafe-inline'” within script-src or style-src: nonce-source or hash-source specified
+Content Security Policy: Ignoring “'unsafe-inline'” within script-src or style-src: nonce-source or hash-source specified 2
+Content Security Policy: Ignoring “'unsafe-inline'” within script-src or style-src: nonce-source or hash-source specified
+Content Security Policy: Ignoring “'unsafe-inline'” within script-src or style-src: nonce-source or hash-source specified
+Content Security Policy: Ignoring “'unsafe-inline'” within script-src or style-src: nonce-source or hash-source specified
+Content Security Policy: Ignoring “'unsafe-inline'” within script-src or style-src: nonce-source or hash-source specified
+Content Security Policy: Ignoring “'unsafe-inline'” within script-src or style-src: nonce-source or hash-source specified
+Content Security Policy: Ignoring “'unsafe-inline'” within script-src or style-src: nonce-source or hash-source specified
+Content Security Policy: Ignoring “'unsafe-inline'” within script-src or style-src: nonce-source or hash-source specified
+Content Security Policy: Ignoring “'unsafe-inline'” within script-src or style-src: nonce-source or hash-source specified
+Content Security Policy: Ignoring “'unsafe-inline'” within script-src or style-src: nonce-source or hash-source specified
+Content Security Policy: Ignoring “'unsafe-inline'” within script-src or style-src: nonce-source or hash-source specified
+Content Security Policy: Ignoring “'unsafe-inline'” within script-src or style-src: nonce-source or hash-source specified
+Content Security Policy: Ignoring “'unsafe-inline'” within script-src or style-src: nonce-source or hash-source specified
+Content Security Policy: Ignoring “'unsafe-inline'” within script-src or style-src: nonce-source or hash-source specified 3
+Content Security Policy: Ignoring “'unsafe-inline'” within script-src or style-src: nonce-source or hash-source specified
+Content Security Policy: Ignoring “'unsafe-inline'” within script-src or style-src: nonce-source or hash-source specified
+Content Security Policy: Ignoring “'unsafe-inline'” within script-src or style-src: nonce-source or hash-source specified
+Content Security Policy: Ignoring “'unsafe-inline'” within script-src or style-src: nonce-source or hash-source specified

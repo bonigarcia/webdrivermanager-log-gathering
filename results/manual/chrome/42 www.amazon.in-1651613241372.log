@@ -1,0 +1,39 @@
+Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.
+	61lJFOw4DrL.js?AUIClients/AmazonUIjQuery:178          POST https://www.amazon.in/gp/product/sessionCacheUpdateHandler.html 404
+	send @ 61lJFOw4DrL.js?AUIClients/AmazonUIjQuery:178
+	ajax @ 61lJFOw4DrL.js?AUIClients/AmazonUIjQuery:172
+	c.<computed> @ 61lJFOw4DrL.js?AUIClients/AmazonUIjQuery:163
+	a9_sl_sessionCacheUpdateHandler @ (index):1491
+	(anonymous) @ (index):1502
+	(anonymous) @ (index):94
+	h @ 11Y+5x+kkTL._RC%7C5110husWMzL.js,11yKORv-GTL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21SDJtBU-PL.js,012FVc3131L.js,11rRjDLdAVL.js,51RzYQslpZL.js,11kWu3cNjYL.js,11tMohjWmVL.js,11OREnu1epL.js,11wcWdhrnDL.js,21ssiLNIZvL.js,0190vxtlzcL.js,51+N26vFcBL.js,01JYHc2oIlL.js,31R9m8rig5L.js,01ezj5Rkz1L.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,0197uKrNvvL.js_.js?AUIClients/AmazonUI:39
+	b @ 11Y+5x+kkTL._RC%7C5110husWMzL.js,11yKORv-GTL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21SDJtBU-PL.js,012FVc3131L.js,11rRjDLdAVL.js,51RzYQslpZL.js,11kWu3cNjYL.js,11tMohjWmVL.js,11OREnu1epL.js,11wcWdhrnDL.js,21ssiLNIZvL.js,0190vxtlzcL.js,51+N26vFcBL.js,01JYHc2oIlL.js,31R9m8rig5L.js,01ezj5Rkz1L.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,0197uKrNvvL.js_.js?AUIClients/AmazonUI:42
+	(anonymous) @ 11Y+5x+kkTL._RC%7C5110husWMzL.js,11yKORv-GTL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21SDJtBU-PL.js,012FVc3131L.js,11rRjDLdAVL.js,51RzYQslpZL.js,11kWu3cNjYL.js,11tMohjWmVL.js,11OREnu1epL.js,11wcWdhrnDL.js,21ssiLNIZvL.js,0190vxtlzcL.js,51+N26vFcBL.js,01JYHc2oIlL.js,31R9m8rig5L.js,01ezj5Rkz1L.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,0197uKrNvvL.js_.js?AUIClients/AmazonUI:42
+	k @ 11Y+5x+kkTL._RC%7C5110husWMzL.js,11yKORv-GTL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21SDJtBU-PL.js,012FVc3131L.js,11rRjDLdAVL.js,51RzYQslpZL.js,11kWu3cNjYL.js,11tMohjWmVL.js,11OREnu1epL.js,11wcWdhrnDL.js,21ssiLNIZvL.js,0190vxtlzcL.js,51+N26vFcBL.js,01JYHc2oIlL.js,31R9m8rig5L.js,01ezj5Rkz1L.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,0197uKrNvvL.js_.js?AUIClients/AmazonUI:40
+	t @ 11Y+5x+kkTL._RC%7C5110husWMzL.js,11yKORv-GTL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21SDJtBU-PL.js,012FVc3131L.js,11rRjDLdAVL.js,51RzYQslpZL.js,11kWu3cNjYL.js,11tMohjWmVL.js,11OREnu1epL.js,11wcWdhrnDL.js,21ssiLNIZvL.js,0190vxtlzcL.js,51+N26vFcBL.js,01JYHc2oIlL.js,31R9m8rig5L.js,01ezj5Rkz1L.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,0197uKrNvvL.js_.js?AUIClients/AmazonUI:41
+	(anonymous) @ 11Y+5x+kkTL._RC%7C5110husWMzL.js,11yKORv-GTL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21SDJtBU-PL.js,012FVc3131L.js,11rRjDLdAVL.js,51RzYQslpZL.js,11kWu3cNjYL.js,11tMohjWmVL.js,11OREnu1epL.js,11wcWdhrnDL.js,21ssiLNIZvL.js,0190vxtlzcL.js,51+N26vFcBL.js,01JYHc2oIlL.js,31R9m8rig5L.js,01ezj5Rkz1L.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,0197uKrNvvL.js_.js?AUIClients/AmazonUI:45
+	(anonymous) @ 11Y+5x+kkTL._RC%7C5110husWMzL.js,11yKORv-GTL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21SDJtBU-PL.js,012FVc3131L.js,11rRjDLdAVL.js,51RzYQslpZL.js,11kWu3cNjYL.js,11tMohjWmVL.js,11OREnu1epL.js,11wcWdhrnDL.js,21ssiLNIZvL.js,0190vxtlzcL.js,51+N26vFcBL.js,01JYHc2oIlL.js,31R9m8rig5L.js,01ezj5Rkz1L.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,0197uKrNvvL.js_.js?AUIClients/AmazonUI:16
+	load (async)
+	g @ 11Y+5x+kkTL._RC%7C5110husWMzL.js,11yKORv-GTL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21SDJtBU-PL.js,012FVc3131L.js,11rRjDLdAVL.js,51RzYQslpZL.js,11kWu3cNjYL.js,11tMohjWmVL.js,11OREnu1epL.js,11wcWdhrnDL.js,21ssiLNIZvL.js,0190vxtlzcL.js,51+N26vFcBL.js,01JYHc2oIlL.js,31R9m8rig5L.js,01ezj5Rkz1L.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,0197uKrNvvL.js_.js?AUIClients/AmazonUI:42
+	(anonymous) @ 11Y+5x+kkTL._RC%7C5110husWMzL.js,11yKORv-GTL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21SDJtBU-PL.js,012FVc3131L.js,11rRjDLdAVL.js,51RzYQslpZL.js,11kWu3cNjYL.js,11tMohjWmVL.js,11OREnu1epL.js,11wcWdhrnDL.js,21ssiLNIZvL.js,0190vxtlzcL.js,51+N26vFcBL.js,01JYHc2oIlL.js,31R9m8rig5L.js,01ezj5Rkz1L.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,0197uKrNvvL.js_.js?AUIClients/AmazonUI:45
+	k @ (index):93
+	(anonymous) @ (index):94
+	ea @ (index):97
+	setTimeout (async)
+	d @ (index):91
+	wa @ (index):91
+	(anonymous) @ (index):94
+	(anonymous) @ (index):171
+	notify @ (index):155
+	c.notifySubscribers @ (index):155
+	e.notifySubscribers @ (index):156
+	a.register @ (index):157
+	logScope @ (index):161
+	h @ (index):164
+	load (async)
+	autoInstVisible @ (index):165
+	(anonymous) @ (index):1415
+	(anonymous) @ (index):1415
+	(anonymous) @ (index):1415
+Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.
+Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.

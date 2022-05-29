@@ -1,0 +1,4 @@
+vendor.6c876e7361cafcbaccb4.js:2 [default] appid: 1988, userInfo:{"user_type":12,"user_id":"","user_is_login":false}
+vendor.6c876e7361cafcbaccb4.js:2 [default] appid: 1988, sdk is ready, version is 5.0.18_oversea, you can report now !!!
+	init.js?seed=AIAEuYuAAQAAr5BqewsbyCRneOqpObLXjE6LH0UP6B2gcScEvXsgUC7RO8Fz&hTc6j8Njvn--z=q:1 
+DevTools failed to load source map: Could not load content for https://sf16-va.tiktokcdn.com/obj/eden-va2/fapybjlz_lm_zlp/ljhwZthlaukjlkulzlp/security/index.umd.js.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE

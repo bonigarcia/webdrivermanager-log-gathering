@@ -1,0 +1,8 @@
+index.js:1 https://world.taobao.com logUrl
+index.js:1 {https://world.taobao.com: Array(1), https://at.alicdn.com: Array(1), https://g.alicdn.com: Array(8)}
+index.js:1 {https://world.taobao.com: {…}, https://at.alicdn.com: {…}, https://g.alicdn.com: {…}}
+index.js:1 FCP: 1878.6000000238419
+	collina.js:5 
+DevTools failed to load source map: Could not load content for https://g.alicdn.com/tbhome/tb-gnav/1.0.12/index.css.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+DevTools failed to load source map: Could not load content for https://g.alicdn.com/tbhome/tb-gnav/1.0.12/index.js.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+index.js:1 TTFB: 1776.7999999523163
