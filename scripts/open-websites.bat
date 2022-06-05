@@ -11,4 +11,18 @@ SET "urls="
 
 FOR /F "tokens=*" %%A IN (../src/test/resources/websites.txt) DO CALL SET "urls=%%urls%% %%A"
 
-START %browser% %urls%
+SET "flag="
+
+IF "%browser%"=="chrome" (
+	SET flag=-incognito
+)
+
+IF "%browser%"=="msedge" (
+	SET flag=-inprivate
+)
+
+IF "%browser%"=="firefox" (
+	SET flag=-private
+)
+
+START %browser% %flag% %urls%
