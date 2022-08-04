@@ -28,7 +28,7 @@ jobs:
     - name: Start Xvfb
       run: Xvfb :99 &
     - name: Run tests
-      run: mvn -B test -DtestFailureIgnore=true
+      run: mvn -B test -Dmaven.test.failure.ignore=true
     - name: Archive production artifacts
       uses: actions/upload-artifact@v3
       if: ${{ always() }}
