@@ -19,7 +19,7 @@ The main assets contained in this repository are the following:
 
 ## About
 
-WebDriverManager (Copyright &copy; 2015-2022) and its related projects have been created and maintained by [Boni Garcia] licensed under [Apache 2.0 License].
+WebDriverManager (Copyright &copy; 2015-2023) and its related projects have been created and maintained by [Boni Garcia] licensed under [Apache 2.0 License].
 
 [Apache 2.0 License]: https://www.apache.org/licenses/LICENSE-2.0
 [Boni Garcia]: https://bonigarcia.dev/
